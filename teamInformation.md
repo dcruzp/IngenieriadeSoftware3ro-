@@ -1,4 +1,4 @@
-# Equipo
+# Equipo de Ingenieria de Software
 
 * ### Daniel de la Cruz Prieto 
     - Grupo: 311
@@ -21,10 +21,3 @@
         + Gmail: camilo.rod4312@gmail.com 
     - Telefono: movil - 54983059
     - Usuario de Telegram: @ErichKrausse
-
-* ### Claudia Puentes Hernadez 
-    - Grupo: 311 
-    - Correo:
-        + Gmail: 
-    - Telefono: movil - 53717257
-    - Usuario de Telegram: @puentes99
