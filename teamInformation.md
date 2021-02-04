@@ -21,3 +21,10 @@
         + Gmail: camilo.rod4312@gmail.com 
     - Telefono: movil - 54983059
     - Usuario de Telegram: @ErichKrausse
+
+* ### Julio Jose Horta Vazquez 
+    - Grupo: 312
+    - Correo: 
+        + Facultad: julio.horta@estudiantes.matcom.uh.cu
+    - Telefono: movil - 54018524
+    - Usuario de Telegram: @belzico
