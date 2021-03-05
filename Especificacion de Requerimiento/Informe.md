@@ -1,4 +1,4 @@
-# Proyecto: Nombre del Proyecto 
+# Proyecto: Clash Royale
 - ## Ejecutores:  
     + ##### Lider 
         - Daniel de la Cruz Prieto  
@@ -25,12 +25,7 @@ Aspectos escenciales para el desarrollo de este videojuego(Descripion General , 
 Como es un videojuego online , cualquier usuario puede hacer uso del producto, pues no es un software de pago excepto algunas funcionalidades. 
 Desde cualquier terminal(android,IOs) con conexion a internet  es posible hacer uso del software. 
 
-### 1.3 Definiciones , acronimos y abreviaturas 
-
-Todo documento técnico escrito, especialmente cuando esta destinado a ser leído por otros, requiere que se definan los conceptos de uso común en el mismo, así como las abreviaturas utilizadas 
-(Es un error muy frecuente asumir que otros entienden lo que uno escribe con facilidad, por ejemplo: “... El sistema deberá confeccionar Ordenes de Trabajo...”, ¿qué es una Orden de Trabajo? o “... Los especialistas de la DICT se encargarán de ...”, ¿qué es la DICT?)
-
-### 1.4 Referencias 
+### 1.3 Referencias 
 
    ALgunos referencias digitales para las consultas en el desarrollo del software
 
@@ -54,12 +49,12 @@ Inicialmente tendra soporte solo para dispositivos moviles(sistemas Android , IO
 ### 2.2 Funciones del Producto 
 
 
-EL producto debe tener un sistema de gestion de los usuarios inscritos en al plataforma , asi como un registro para almecenar y procesar sus datos de los mismo(solo usuarios privilegiados escogidos por los desarrolladores tendran al acceso a dichos datos )
-una aplicacion grafica sencilla, (que consuma pacos recursos de software) y a la vez rapida. pero agradable para la interaccion de los usuarios que hacen uso de ella (consumidores del producto )
+EL producto debe tener un sistema de gestion de los usuarios inscritos en la plataforma , asi como un registro para almecenar y procesar los datos de los mismo(solo usuarios privilegiados escogidos por los desarrolladores tendran al acceso a dichos datos )
+una aplicacion grafica sencilla, (que consuma pocos recursos de software) y a la vez rapida. pero agradable para la interaccion de los usuarios que hacen uso de ella (consumidores del producto )
 
 debe ser extensible por lo que debe de ser pensado y disenado con ese fin.
 
-Debe estar basado en un sistema de versiones para futuras mejoras e incorporar funcionalidades a medida que se estudien los datos de los consumidores del producto para atrar a mas usuarios a la plataforma 
+Debe estar basado en un sistema de versiones para futuras mejoras e incorporar funcionalidades a medida que se estudien los datos de los consumidores del producto para atraer a mas usuarios a la plataforma 
 
  
 
@@ -72,9 +67,9 @@ Debe estar basado en un sistema de versiones para futuras mejoras e incorporar f
 
 ### 2.3 Caracteristicas de los usuarios
 
-El producto va dirigido a todo tipo de publico. Pero va a estar dirgido fundamentalmente a jovenes y ninos. El grado de experiencia es marcado por el alto contenido y competitividad 
-en la industria del entretenimiento , y en videojuegos de este tipo , Por lo que los usuarios son critios y tiene un alto conocimiento en el manejo de producto de este tipo.
-La rapidez y fluides de la plataforma es fundamental dado el gran valumen de usuarios de la plataforma que se prevee dedo el alto impacto de otros productos similares 
+El producto va dirigido a todo tipo de publico. Pero va a estar dorientado fundamentalmente a jovenes y ninos. El grado de experiencia es marcado por el alto contenido y competitividad 
+en la industria del entretenimiento , y en videojuegos de este tipo , Por lo que los usuarios son critios y tiene un alto conocimiento en el manejo de productos de este tipo.
+La rapidez y fluidez de la plataforma es fundamental dado el gran volumen de usuarios de la plataforma que se prevee dado el alto impacto de otros productos similares 
  
 
 ### 2.4 Restricciones Generales 
@@ -88,7 +83,7 @@ Debe poder conectarse  a servicios en linea , que sean de pago(tajetas, etc) , p
 
 Debe tener un registro en PlayStore(servicio de Google). para publicidad 
 
-Preferiblemnte el derarrollo de la aplicacion  WEb debe desarrollarse usando bibliotecas .net 
+Preferiblemnte el derarrollo de la aplicacion  WEB debe desarrollarse usando bibliotecas .net 
 
 ## 3. Requerimientos Especificos 
 
