@@ -1,18 +1,29 @@
 # Proyecto: Nombre del Proyecto 
-- ## Ejecutores:     
-    + #### Integrantes del Equipo 
+- ## Ejecutores:  
+    + ##### Lider 
+        - Daniel de la Cruz Prieto  
+         
+    + ##### Integrantes del Equipo 
        > - Daniel de la Cruz Prieto 
        > - Camilo Rodriguez Velazquez
        > - Julio Jose Horta Vazquez 
        > - Frank Adrian Perez Morales
+
+
+
 ## 1. Introduccion 
 
 Clash Royale, también conocido por su abreviatura CR, es un videojuego de estrategia en línea para dispositivos móviles, tanto para IOS como Android. Es un videojuego Premium, es decir, que descargarlo y jugarlo va a ser gratis, pero va existir una tienda que funcionara con dinero real para comprar algunos complementos del juego, que van a ser de gran interés para los jugadores que esten interesados en avanzar más rápido en el juego, es un juego de estrategia en tiempo real basado en los personajes de Clash of Clans, popular juego de la compañía Supercell. Combina elementos de los juegos de cartas coleccionables y defensa de torres.
 
 ### 1.1 Proposito del Documento 
-Este y algunos otros de los acápites de esta propuesta están dirigidos a ubicar el documento en el contexto de un conjunto de ellos más extenso, en nuestro caso no es necesario (de ahora en lo adelante N/A)
+
+El objetivo del documento es dar una caracterizacion del producto a desarrollar, asi como 
+Aspectos escenciales para el desarrollo de este videojuego(Descripion General , Especificaciones de Requerimientos ,Objetivos que debe cubrir el producto entra otras ). 
 
 ### 1.2 Alcance del Producto 
+
+Como es un videojuego online , cualquier usuario puede hacer uso del producto, pues no es un software de pago excepto algunas funcionalidades. 
+Desde cualquier terminal(android,IOs) con conexion a internet  es posible hacer uso del software. 
 
 ### 1.3 Definiciones , acronimos y abreviaturas 
 
@@ -21,9 +32,12 @@ Todo documento técnico escrito, especialmente cuando esta destinado a ser leído 
 
 ### 1.4 Referencias 
 
-  Si fue necesario para la confección de este documento la consulta de otros, tanto en papel como en formato electrónico 
+   ALgunos referencias digitales para las consultas en el desarrollo del software
 
-### 1.5 Resumen del Resto del Documento 
+  1. [Desarrollo de videojuegos - Wikipedia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB5tnO15nvAhWURzABHbmjCgcQFjABegQIBxAD&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FDesarrollo_de_videojuegos&usg=AOvVaw3xh6gruRjDoHF-zYqLorG5)
+
+  2. [Fases mas importantes en el desarrollo de videojuegos](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB5tnO15nvAhWURzABHbmjCgcQFjACegQIAxAD&url=https%3A%2F%2Fdocs.hektorprofe.net%2Fescueladevideojuegos%2Farticulos%2Ffases-del-desarrollo-de-videojuegos%2F&usg=AOvVaw2zdJIzhEefMdPCPYKjHEVC)
+
 
 
 ## 2. Desripcion General 
@@ -39,26 +53,28 @@ Inicialmente tendra soporte solo para dispositivos moviles(sistemas Android , IO
 
 ### 2.2 Funciones del Producto 
 
-Enumerar brevemente las funciones que debe realizar el producto según los deseos expresados por el cliente 
 
-Por ejemplo, aquí se conocería si está interesado fundamentalmente en consultar información visualmente, en imprimirla también o si además quisiera disponer de alguna herramienta de gestión, para administrar ciertos datos 
+EL producto debe tener un sistema de gestion de los usuarios inscritos en al plataforma , asi como un registro para almecenar y procesar sus datos de los mismo(solo usuarios privilegiados escogidos por los desarrolladores tendran al acceso a dichos datos )
+una aplicacion grafica sencilla, (que consuma pacos recursos de software) y a la vez rapida. pero agradable para la interaccion de los usuarios que hacen uso de ella (consumidores del producto )
 
- - Base de datos para almacenar los records de los usuarios 
-  - Informacion de registros estadisticos 
-  - Libre acceso y costo. 
+debe ser extensible por lo que debe de ser pensado y disenado con ese fin.
+
+Debe estar basado en un sistema de versiones para futuras mejoras e incorporar funcionalidades a medida que se estudien los datos de los consumidores del producto para atrar a mas usuarios a la plataforma 
+
+ 
+
+##### algunos carateristicas basicas que debe tener el producto a peticion del cliente:
+  - una Base de datos para almacenar los records de los usuarios
+  - Informacion de registros estadisticos(visibles para todo los usuarios de la plataforma )
+  - Libre acceso y costo. (solo algunas funcionalidades de pago)
   - Tener un entorno grafico liviano pero que guste y atraiga a usuarios 
-  - Facil de manipular para todo tipo de usuario 
+  - Facil de manipular y entender para todo tipo de usuario 
 
 ### 2.3 Caracteristicas de los usuarios
 
-Como veremos más adelante, muchas decisiones posteriores dependen de las características de los usuarios futuros del producto, por lo que es muy importante caracterizar, cuantitativa y cualitativamente a los mismos, según:
-
- -	su grado de experiencia en la actividad que el producto asume
- -	su identificación con los ambientes y plataformas de hardware y software previstos
-
 El producto va dirigido a todo tipo de publico. Pero va a estar dirgido fundamentalmente a jovenes y ninos. El grado de experiencia es marcado por el alto contenido y competitividad 
 en la industria del entretenimiento , y en videojuegos de este tipo , Por lo que los usuarios son critios y tiene un alto conocimiento en el manejo de producto de este tipo.
-La rapidez y fluides del producto es fundamental dado el alto desarrollo en software y hardware para este tipo de productos 
+La rapidez y fluides de la plataforma es fundamental dado el gran valumen de usuarios de la plataforma que se prevee dedo el alto impacto de otros productos similares 
  
 
 ### 2.4 Restricciones Generales 
@@ -68,19 +84,12 @@ Entre las restricciones de la aplicación tenemos que el juego solamente correrá 
 
 ### 2.5 Dependencias y suposiciones  
 
-Si el producto a desarrollar deberá comunicarse con otro sistema ya existente o en desarrollo para obtener información, deberá investigarse la naturaleza y principales características del mismo, con el objetivo de adecuar las decisiones de diseño acorde a esta dependencia operacional
-      En este aspecto deberán detallarse, si es posible, características como:
- -	Plataforma de software (SO, lenguaje,etc)
- -	Tipo y Formato de los datos que maneja ese otro sistema
+Debe poder conectarse  a servicios en linea , que sean de pago(tajetas, etc) , para el desbloqueo de funcionalidades de pago que tendra la aplicacion 
 
-Además, frecuentemente se asumen ciertas restricciones iniciales, muchas veces no derivadas de ningún razonamiento lógico, simplemente como expresión de la voluntad y gustos del cliente
+Debe tener un registro en PlayStore(servicio de Google). para publicidad 
 
-Por ejemplo:
-- “ La navegación no debe necesitar más de tres niveles de profundidad...”
-- “Los menús fijos deberían estar en el lateral derecho...”
+Preferiblemnte el derarrollo de la aplicacion  WEb debe desarrollarse usando bibliotecas .net 
 
-
- 
 ## 3. Requerimientos Especificos 
 
 
