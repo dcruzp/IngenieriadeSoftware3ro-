@@ -38,15 +38,15 @@ un enfoque técnico y descriptivo.
 Como es un videojuego online , cualquier usuario puede hacer uso del producto, 
 pues no es un software de pago excepto algunas funcionalidades. 
 Desde cualquier terminal(android,IOs) con conexión a internet es posible hacer 
-uso de la aplicacion. 
+uso de la aplicación. 
 
-Este producto va dirigido al público joven con necesidaded de entretenimiento 
-y distracción. Aunque no hay restriciones, esta abierto a todo público que 
+Este producto va dirigido al público joven con necesidad de entretenimiento 
+y distracción. Aunque no hay restriciones, está abierto a todo público que 
 vea en la apliación la saciedad en momentos de ocio. 
 
 ### 1.3 Referencias 
 
-   ALgunas referencias digitales para las consultas en el desarrollo del producto:
+   Algunas referencias digitales para las consultas en el desarrollo del producto:
 
   1. [Desarrollo de videojuegos - Wikipedia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB5tnO15nvAhWURzABHbmjCgcQFjABegQIBxAD&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FDesarrollo_de_videojuegos&usg=AOvVaw3xh6gruRjDoHF-zYqLorG5)
 
@@ -247,7 +247,7 @@ también, “chatear”.
    >se debe emplear una base de datos para garantizar la persistencia de estos.
 
   ##### Experiencia Visual de la aplicación: 
-   >el contenido de la aplicación, la interfaz con cada uno de sus artículos, 
+   >El contenido de la aplicación, la interfaz con cada uno de sus artículos, 
    >igual como la experiencia a la hora de jugar debe tener una alta calidad 
    >visual relacionada con la animación en la que se basa la aplicación. 
    >Las acciones realizadas por cada uno de los avatares y objetos del juego 

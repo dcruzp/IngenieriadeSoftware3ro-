@@ -7,8 +7,8 @@
     de versiones. Para poder ser mejorado y añadir nuevas funcionalidades que sean 
     requeridas en un futuro, ya sea para arreglar errores o agragar más funcionalidades.  
      
-    Su predictibilidad es alta ya que es un juego donde se tiene una idea 
-    clara de lo que se va a hacer desde el principio y no hay casi aspectos 
+    Es un juego donde se tiene una idea clara de lo que se va a hacer desde 
+    el principio y no hay casi aspectos 
     que puedan cambiar durante su implementación. Sin embargo, no es totalmente 
     predecible ya que el sistema de combate ha de mantenerse equilibrado. 
     Con la adición de nuevas cartas no se saben todas las posibles habilidades 
@@ -25,7 +25,7 @@
     ss totalmente repetible ya que se pueden implementar varios juegos del mismo género 
     que sigan una mecánica bastante similar y que cambien por completo la parte visual. 
     Esto lo vuelve totalmente replicable en el ámbito de los videojuegos con estas 
-    características.
+    características
 
  - ##### Complejidad : 3
   
@@ -86,15 +86,12 @@
     con facilidad las tecnologías de hoy en día, pero por lo general no están especializados
     en formaciones computacionales. 
 
-    Pero aún así Los clientes tendrán las habilidades necesarias para utilizar 
-    la aplicación ya que si tienen un teléfono móvil saben tocar botones y 
-    arrastrar elementos. Con esto son capaces de ejecutar cualquier acción. 
-    Además el juego vendrá con tutoriales y guías detalladas para que todos 
+    EL juego vendrá con tutoriales y guías detalladas para que todos 
     aprendan a jugar fácilmente.
  
- - ##### Disponibilidad :5
+ - ##### Disponibilidad : 5
     
-    Los clientes mas abituales usan su tiempo libre para el consumo de la aplicación, 
+    Los clientes mas habituales usan su tiempo libre para el consumo de la aplicación, 
     pero dada la masividad del uso y el alcance de la misma. Es muy alta la disponibilidad 
     de los clientes, muy probable que a cualquier hora haya un gran número de usuarios 
     haciendo uso de la plataforma.
