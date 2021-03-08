@@ -18,7 +18,7 @@ estrategia en línea para dispositivos móviles, tanto para IOS como Android.
 Es un videojuego Premium, es decir, que descargarlo y jugarlo va a ser gratis, 
 pero va existir una tienda que funcionará con dinero real para comprar algunos 
 complementos del juego, que van a ser de gran interés para los jugadores que 
-esten interesados en avanzar más rápido en el juego, es un juego de estrategia 
+estén interesados en avanzar más rápido en el juego, es un juego de estrategia 
 en tiempo real basado en los personajes de Clash of Clans, popular juego 
 de la compañía Supercell. Combina elementos de los juegos de cartas 
 coleccionables y defensa de torres.
@@ -27,7 +27,7 @@ coleccionables y defensa de torres.
 
 El objetivo del documento es dar una caracterización del producto, 
 así como aspectos escenciales para el desarrollo de este videojuego(Descripión 
-General, Especificaciones de Requerimientos, Objetivos que debe cubrir el producto entre otras ). 
+General, Especificaciones de Requerimientos, Objetivos que debe cubrir el producto, entre otras ). 
 
 Se tratan aspectos importantes y de interés tanto para desarrolladores que 
 deseen colaborar en la aplicación como para consumidores del producto, pero con 
@@ -54,20 +54,20 @@ vea en la apliación la saciedad en momentos de ocio.
 
 
 
-## 2. Desripción General 
+## 2. Descripción General 
 
 ### 2.1 Pespectiva del Producto 
 
 
 Es un videojuego online ,por lo que está dedicado a la industria del entretenimiento. 
 El producto va dirigido a todo público, fundamentalmente a niños y jóvenes. Dado el alto 
-consumo de estos grupos de población a productos que estan dirigidos al entretenimieto.
+consumo de estos grupos de población a productos que están dirigidos al entretenimieto.
 Es un software ligero(pocos recursos), por lo que no se requieren de
 tecnologías avanzadas para hacer uso de la aplicación. 
 Fácil de entender y utilizar por lo que no requiere una curva elevada de aprendizaje. 
 
 Inicialmente tendrá soporte solo para dispositivos móviles(sistemas Android , IOs), 
-pero se extenderá a  otras plataformas como windows y Mac
+pero se extenderá a  otras plataformas como Windows y Mac
 
 Se espera una gran cantidad de usuarios haciendo uso de la plataforma , dada la 
 gran masividad de  personas que día a  día dedican el tiempo a hacer uso de 
@@ -76,7 +76,7 @@ tecnologías y productos como estos para el entretenimiento.
 ### 2.2 Funciones del Producto 
 
 EL producto debe tener un sistema de gestión de los usuarios inscritos en la 
-plataforma , así como un registro para almecenar y procesar los datos de los 
+plataforma , así como un registro para almacenar y procesar los datos de los 
 mismo(solo usuarios privilegiados escogidos por los desarrolladores tendrán el 
 acceso a dichos datos) una aplicación gráfica sencilla, (que consuma pocos 
 recursos de software) y a la vez rápida. pero agradable para la interacción 
@@ -86,7 +86,7 @@ Debe ser extensible por lo que tiene que ser pensado y diseñado con ese fin .
 
 Debe estar basado en un sistema de versiones para futuras mejoras e incorporar 
 funcionalidades a medida que se estudien los datos de los consumidores del 
-producto con el objetivo de atraer a mas usuarios a la plataforma. 
+producto con el objetivo de atraer a más usuarios a la plataforma. 
 
 La principal función del producto es dar un servicio didáctico, educativo  y a la 
 vez de entretenimiento a los usuarios , además de interacción social mediante 
@@ -96,7 +96,7 @@ haciedo uso de la aplicación.
 
  
 
-##### algunos carateristicas básicas que debe tener el producto a petición del cliente:
+##### algunas caraterísticas básicas que debe tener el producto a petición del cliente:
   - Una Base de datos para almacenar los records de los usuarios
   - Información de registros estadísticos(visibles para todo los usuarios de la plataforma )
   - Libre acceso y costo. (solo algunas funcionalidades de pago)
@@ -108,9 +108,9 @@ haciedo uso de la aplicación.
 
 El producto va dirigido a todo tipo de público. Pero va a estar orientado 
 fundamentalmente a jóvenes y niños. El grado de experiencia de este tipo de 
-publio es marcado por el alto contenido y competitividad que existe en la 
+público es marcado por el alto contenido y competitividad que existe en la 
 industria del entretenimiento, y sobretodo en videojuegos de este tipo, por 
-lo que los usuarios son crítios y tiene un gran conocimiento en el uso de estas
+lo que los usuarios son críticos y tiene un gran conocimiento en el uso de estas
 aplicaciones.
 
 La rapidez y fluidez de la aplicación es fundamental dado el gran volumen de 
@@ -123,11 +123,11 @@ Entre las restricciones de la aplicación tenemos que el juego solamente
 correrá online(es decir que es necesario estar conectado para poder hacer 
 uso de la app, y poder jugar con otras personas).
  
-Deben implementarse versiones para Android e IOS, la ambientación y diseño 
-deben ser respetar la animación seleccionada, los precios de los elementos 
+Deben implementarse versiones para Android e IOs, la ambientación y diseño 
+deben respetar la animación seleccionada, los precios de los elementos 
 de la tienda de dinero real deben mantenerse mínimos. Se tiene que la 
 interfaz debe ser lo más sencilla posible y fácil de entender. 
-Los tutoriales deben estar asequibles para todo el público y deben ser  lo mas 
+Los tutoriales deben estar asequibles para todo el público y deben ser lo más 
 abarcadores posibles en cada aspecto del juego.
 
 
@@ -181,7 +181,7 @@ también, “chatear”.
   >Se requiere que la aplicación informe al usuario acerca de ciertos hechos 
   >que puedan interesarle, como cuando uno de los cofres de su posesión se 
   >abre y pueda tener acceso al premio que contiene, o cuando algún miembro 
-  >de su clan publique algún mensaje que puede ser que tenga relación con el o 
+  >de su clan publique algún mensaje que puede ser que tenga relación con él o 
   >no.
 
   ##### Almacenamiento de Cofres: 
@@ -201,7 +201,7 @@ también, “chatear”.
 
    > El usuario debe tener una plataforma donde pueda intercambiar mensajes de 
    > texto con los otros miembros de su clan, donde pueda enterarse de las 
-   > próximas acciones que realizaran los miembros o para solicitar ayuda sobre 
+   > próximas acciones que realizarán los miembros o para solicitar ayuda sobre 
    > un tema en específico.
 
 
@@ -255,7 +255,7 @@ también, “chatear”.
    >paisajes donde se realizan las batallas.
 
   ##### Interacción táctil:   
-  >Como la aplicación se desea que se pueda jugas en dispositivos móviles 
+  >Como la aplicación se desea que se pueda jugar en dispositivos móviles 
   >como teléfonos celulares, tabletas, etc. Se prefiere la interacción por 
   >la pantalla táctil, dándole facilidades al usuario de poder seleccionar 
   >las opciones que desea realizar tanto en las batallas que se realicen, 
@@ -278,7 +278,7 @@ también, “chatear”.
  ##### Requerimientos del hardware y software del sistema:
  - La aplicación esta destinada para dispositivos móviles los cuales tengan como sistema Operativo : IOS 9.0.0 o versión superior y Android 4.1.0 o versión superior. 
  - Se necesita conexión de red. 
- - Aproximadamente 400 Mb de capacidad la versión inicial tiene 200 Mb y luego poco a poco se actualizaran con las nuevas versiones. 
+ - Aproximadamente 400 Mb de capacidad la versión inicial tiene 200 Mb y luego poco a poco se actualizarán con las nuevas versiones. 
 
 
 
@@ -290,5 +290,5 @@ también, “chatear”.
  
  - Dio Brando, 29 años. Empleado de una fábrica de conservas, alto consumidor de videojuegos. Encuentros semanales que duran entre 1 y 2 horas.
 
-    Se les iban dando videos hechos por el equipo de trabajo para la explicación de distintas funcionalidades, asi como PowerPoint para mostrar ciertos aspectos.
+   Se les iban dando videos hechos por el equipo de trabajo para la explicación de distintas funcionalidades, asi como PowerPoint para mostrar ciertos aspectos.
 
