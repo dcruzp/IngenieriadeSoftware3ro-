@@ -139,4 +139,4 @@ puede adquirir mas dinero (en el juego) pagando con dinero almacenado en una cue
 3. Tiempo en el cuál termina la batalla, cuando esta termine el jugador que más daño tenga pierde la batalla. Existe también la posibilidad de que un jugador le quite toda la vida al otro antes del tiempo en cuestión, si esto sucede el jugador que tenga vida automaticamente gana la batalla.  
 
 #### 7- Sección del chat
-En esta sección el usuario podrá intercambiar mensajes de texto con otros jugadores que sean amigos de él. También existe en chat grupal con todos los miembros del clan al cual pertenece el jugador. 
+En esta sección el usuario podrá intercambiar mensajes de texto con otros jugadores que sean amigos de él. También existe en chat grupal con todos los miembros del clan al cual pertenece el jugador.
