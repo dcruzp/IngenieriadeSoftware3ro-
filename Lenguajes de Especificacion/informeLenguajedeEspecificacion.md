@@ -26,7 +26,7 @@ Después de que la Rational Software Corporation contratara a James Rumbaugh
 dos esquemas de modelado orientado a objetos más populares de la �poca.
 de General Electric, en 1994, la compa�a se convirtir en la fuente de los 
 
-Poco despu�s se les uni� Ivar Jacobson, el creador del m�todo de ingenier�a 
+Poco despus se les uni� Ivar Jacobson, el creador del m�todo de ingenier�a 
 de software orientado a objetos. Jacobson se uni� a Rational, en 1995, 
 
 despu�s de que su compa�a Objectory AB fuera comprada por Rational.
