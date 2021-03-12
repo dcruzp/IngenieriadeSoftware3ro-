@@ -43,3 +43,25 @@ split again
 detach 
 end split
 @enduml
+
+@startuml
+#Green :PanelPrincipal;
+#Gray :Tienda;
+if (entrar en la tienda) then (si)
+    #Blue :TIENDA;
+else (no)
+    
+endif 
+#Green :PanelPrincipal;  
+@enduml
+
+@startuml
+#Green :PanelPrincipal;
+#Gray :Cartas;
+if (Adquirir/Administrar cartas) then (si)
+    #Blue :Admiinsitrador de Cartas ;
+else (no)
+    
+endif 
+#Green :PanelPrincipal;  
+@enduml
