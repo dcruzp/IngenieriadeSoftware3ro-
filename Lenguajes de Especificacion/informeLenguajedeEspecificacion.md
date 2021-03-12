@@ -98,7 +98,15 @@ es en la creaci�n del diagrama, la cual se puede complejizar si el programa
 es demasiado extenso, es decir contiene varios requerimientos.
 
 
-![texto](../out/Lenguajes%20de%20Especificacion/diagrama/name.png)
+#### UML con Diagrama de Actividades 
+
+Para comenzar el juego lo primero que debes hacer es desargaros la aplicacion y una vez descargada , comenzar su instalacion 
+
+Luego al entrar a la interfaz de la aplicacion por primera vez, nos aparece una pantalla donde nos dice si queremos jugar el tutorial del juego  
+
+
+
+<center><img src="../out/Lenguajes%20de%20Especificacion/diagrama/name.png"></center>
 
 <!-- ```plantuml 
 @startuml name
