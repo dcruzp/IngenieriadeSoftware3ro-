@@ -1,99 +1,146 @@
-## Lenguajes de Especificación
+## Lenguajes de Especificaciï¿½n
 
 - ***Storyboard** tipo 2* 
 - ***UML** con diagrama de actividades* 
 
-### Historia y algunos aspectos básicos de Storyboard 
+### Historia y algunos aspectos bï¿½sicos de Storyboard 
 
-El storyboard es una colección de ilustraciones secuenciales que se utilizan como
-una guía para entender una historia, dar publicidad a un prducto, previsualizar
-una animación o seguir la estructura de una película antes de realizarla o firmarla.
+El storyboard es una colecciï¿½n de ilustraciones secuenciales que se utilizan como
+una guï¿½a para entender una historia, dar publicidad a un prducto, previsualizar
+una animaciï¿½n o seguir la estructura de una pelï¿½cula antes de realizarla o firmarla.
 
-La creación de  storyboard se atribuye a Georges Méliès (ilusionista y cineasta 
-francés). El proceso del 
+La creaciï¿½n de  storyboard se atribuye a Georges Mï¿½liï¿½s (ilusionista y cineasta 
+francï¿½s). El proceso del 
 storyboarding, en la forma que se como hoy fue desarrollado por Webb Smith 
-en el estudio de Walt Disney durante principios de los años 1930,
-El storyboarding se hizo popular en la producción de películas de acción 
-viva durante principios de los años 1940. 
+en el estudio de Walt Disney durante principios de los aï¿½os 1930,
+El storyboarding se hizo popular en la producciï¿½n de pelï¿½culas de acciï¿½n 
+viva durante principios de los aï¿½os 1940. 
 
-La elaboración de un storyboard está en función de su uso: en publicidad 
-o videos comerciales o institucionales es mucho más técnico y elaborado 
-para que sirva de guía a cada miembro del equipo de trabajo.
+La elaboraciï¿½n de un storyboard estï¿½ en funciï¿½n de su uso: en publicidad 
+o videos comerciales o institucionales es mucho mï¿½s tï¿½cnico y elaborado 
+para que sirva de guï¿½a a cada miembro del equipo de trabajo.
 
-### Historia y algunos aspectos básicos de UML
+### Historia y algunos aspectos bï¿½sicos de UML
 
-Después de que la Rational Software Corporation contratara a James Rumbaugh 
-de General Electric, en 1994, la compañía se convirtió en la fuente de los 
-dos esquemas de modelado orientado a objetos más populares de la época.
+Despuï¿½s de que la Rational Software Corporation contratara a James Rumbaugh 
+de General Electric, en 1994, la compaï¿½ï¿½a se convirtiï¿½ en la fuente de los 
+dos esquemas de modelado orientado a objetos mï¿½s populares de la ï¿½poca.
 
-Poco después se les unió Ivar Jacobson, el creador del método de ingeniería 
-de software orientado a objetos. Jacobson se unió a Rational, en 1995, 
-después de que su compañía Objectory AB fuera comprada por Rational.
+Poco despuï¿½s se les uniï¿½ Ivar Jacobson, el creador del mï¿½todo de ingenierï¿½a 
+de software orientado a objetos. Jacobson se uniï¿½ a Rational, en 1995, 
+despuï¿½s de que su compaï¿½ï¿½a Objectory AB fuera comprada por Rational.
 
-En 1996 Rational concluyó que la abundancia de lenguajes de modelado estaba 
-alentando la adopción de la tecnología de objetos, y para orientarse hacia un
-método unificado, encargaron a los Tres Amigos que desarrollaran un 
-"lenguaje unificado de modelado" abierto. Se consultó con representantes de 
-compañías competidoras en el área de la tecnología de objetos durante la 
-OOPSLA '96; eligieron "cajas" para representar clases en lugar de la notación
-de Booch que utilizaba símbolos de "nubes". 
+En 1996 Rational concluyï¿½ que la abundancia de lenguajes de modelado estaba 
+alentando la adopciï¿½n de la tecnologï¿½a de objetos, y para orientarse hacia un
+mï¿½todo unificado, encargaron a los Tres Amigos que desarrollaran un 
+"lenguaje unificado de modelado" abierto. Se consultï¿½ con representantes de 
+compaï¿½ï¿½as competidoras en el ï¿½rea de la tecnologï¿½a de objetos durante la 
+OOPSLA '96; eligieron "cajas" para representar clases en lugar de la notaciï¿½n
+de Booch que utilizaba sï¿½mbolos de "nubes". 
 
-Bajo la dirección técnica de los Tres Amigos (Rumbaugh, Jacobson y Booch) fue 
+Bajo la direcciï¿½n tï¿½cnica de los Tres Amigos (Rumbaugh, Jacobson y Booch) fue 
 organizado un consorcio internacional llamado UML Partners en 1996 para 
 completar las especificaciones del UML.
 
-El borrador de la especificación UML 1.0 de UML Partners fue propuesto a la 
-OMG en enero de 1997. Durante el mismo mes, la UML Partners formó una Fuerza 
-de Tarea Semántica, encabezada por Cris Kobryn y administrada por Ed Eykholt, 
-para finalizar las semánticas de la especificación y para integrarla con otros 
-esfuerzos de estandarización. El resultado de este trabajo, el UML 1.1, fue 
+El borrador de la especificaciï¿½n UML 1.0 de UML Partners fue propuesto a la 
+OMG en enero de 1997. Durante el mismo mes, la UML Partners formï¿½ una Fuerza 
+de Tarea Semï¿½ntica, encabezada por Cris Kobryn y administrada por Ed Eykholt, 
+para finalizar las semï¿½nticas de la especificaciï¿½n y para integrarla con otros 
+esfuerzos de estandarizaciï¿½n. El resultado de este trabajo, el UML 1.1, fue 
 presentado ante la OMG en agosto de 1997 y adoptado por la OMG en 
 noviembre de 1997. 
 
 ### Ventajas y desventajas de los lenguajes
 
-Los lenguajes que utilizamos para nuestra especificación de requerimientos son:
+Los lenguajes que utilizamos para nuestra especificaciï¿½n de requerimientos son:
 Storyboard tipo 2 y UML con Diagrama de Actividades. 
  
-En el Storyboard tipo 2 se combinan los mockups del programa en cuestión con 
-el flujo básico de los casos usos, para mostrar al usuario como interactuará 
-con la interfaz del programa en su fase final. Este tipo de diseño ayuda al 
+En el Storyboard tipo 2 se combinan los mockups del programa en cuestiï¿½n con 
+el flujo bï¿½sico de los casos usos, para mostrar al usuario como interactuarï¿½ 
+con la interfaz del programa en su fase final. Este tipo de diseï¿½o ayuda al 
 usuario a identificar cuales aspectos del programa son de su agrado y cuales 
-no, debido a la visibilidad que tiene del producto, aunque este no esté 
-todavía implementado, es decir el usuario gracias a este tipo de lenguaje 
-tendrá una “maqueta” de la interfaz del programa final.
+no, debido a la visibilidad que tiene del producto, aunque este no estï¿½ 
+todavï¿½a implementado, es decir el usuario gracias a este tipo de lenguaje 
+tendrï¿½ una ï¿½maquetaï¿½ de la interfaz del programa final.
  
-En él fuimos mostrando todas las etapas por las cuales el usuario debe pasar 
-desde la selección de la aplicación en un dispositivo móvil, hasta cada una 
-de las opciones que la persona puede seleccionar dentro de la aplicación, 
-explicando detalladamente la función de cada uno de los elementos que 
+En ï¿½l fuimos mostrando todas las etapas por las cuales el usuario debe pasar 
+desde la selecciï¿½n de la aplicaciï¿½n en un dispositivo mï¿½vil, hasta cada una 
+de las opciones que la persona puede seleccionar dentro de la aplicaciï¿½n, 
+explicando detalladamente la funciï¿½n de cada uno de los elementos que 
 conforman la interfaz de esta.
 
 Este tipo de Storyboard ayuda a los desarrolladores a identificar los 
 problemas visuales que puede tener el software y es muy importante a la hora 
 de poder crear un manual para el usuario. 
 
-Una de las desventajas que tiene es que como es una “maqueta visual” los 
-desarrolladores no podrán identificar problemas más detallados como las 
+Una de las desventajas que tiene es que como es una ï¿½maqueta visualï¿½ los 
+desarrolladores no podrï¿½n identificar problemas mï¿½s detallados como las 
 acciones que el usuario puede realizar o no al estar en contacto con el 
-producto, o problemas a nivel de implementación del software. Además, que 
-como queremos enseñarle al cliente todas las etapas de la aplicación 
+producto, o problemas a nivel de implementaciï¿½n del software. AdemÃ¡s, que 
+como queremos enseï¿½arle al cliente todas las etapas de la aplicaciï¿½n 
 tuvimos que crear las maquetas de cada una de estas, y como este software 
-en particular tiene varios requerimientos fueron muchas maquetas, además, 
-de la explicación de cada uno de los elementos que contiene la interfaz. 
+en particular tiene varios requerimientos fueron muchas maquetas, ademï¿½s, 
+de la explicaciï¿½n de cada uno de los elementos que contiene la interfaz. 
 El lenguaje UML con Diagrama de Actividades es una alternativa del lenguaje 
-natural para la descripción de escenarios, en él se representa los flujos de 
+natural para la descripciï¿½n de escenarios, en ï¿½l se representa los flujos de 
 los casos usos paso a paso. Estos se utilizan para representar el 
-comportamiento dinámico de un sistema, principalmente en la secuencia de 
+comportamiento dinï¿½mico de un sistema, principalmente en la secuencia de 
 actividades que se llevan a cabo y las condiciones que guardan o ejecutan 
 esas actividades. 
 
-Este lenguaje ayuda a la comprensión del proceso del programa, debido que al 
-mostrarlo con un dibujo es fácil de entender, también gracias a la simplicidad 
-de la visualización nos ayuda a identificar los problemas y los puntos en los 
+Este lenguaje ayuda a la comprensiï¿½n del proceso del programa, debido que al 
+mostrarlo con un dibujo es fï¿½cil de entender, tambiï¿½n gracias a la simplicidad 
+de la visualizaciï¿½n nos ayuda a identificar los problemas y los puntos en los 
 cuales se puede mejorar el proceso. En un plano profesional este tipo de 
-lenguaje ayuda en la capacitación de los nuevos desarrolladores que se unan 
-al equipo de creación del programa. La desventaja fundamental de este lenguaje 
-es en la creación del diagrama, la cual se puede complejizar si el programa 
+lenguaje ayuda en la capacitaciï¿½n de los nuevos desarrolladores que se unan 
+al equipo de creaciï¿½n del programa. La desventaja fundamental de este lenguaje 
+es en la creaciï¿½n del diagrama, la cual se puede complejizar si el programa 
 es demasiado extenso, es decir contiene varios requerimientos.
 
+
+```plantuml 
+@startuml name1
+skinparam ArrowHeadColor none
+#Green :PanelPrincipal; 
+split
+#Gray :Tienda;
+detach
+split again
+#Gray :Cartas;
+detach 
+split again       
+#Gray :Batalla;
+:Jugar;
+note right
+  Aqui entra en el modo juego 
+  ====
+  salir de la partida o continuar  
+end note
+if (continuar) then(si)
+    #Green: PanelPrincipal;
+    detach
+else (no)
+    end 
+endif
+
+split again    
+#Gray :Social;
+detach 
+split again
+#Gray :Eventos;
+detach 
+end split
+@enduml
+```
+
+@import 'out\name.png'
+
+```mermaid
+stateDiagram
+    [*] --> First
+    state First {
+        [*] --> second
+        second --> [*]
+    }
+    [*] --> Daniel
+```

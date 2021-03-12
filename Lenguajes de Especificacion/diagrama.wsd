@@ -1,0 +1,49 @@
+@startuml name
+start
+:Instalar el Juego;
+if (Jugar el Tutorial) then
+    :Tutorial;
+endif
+#Green: PanelPrincipal; 
+
+@enduml
+
+@startuml name1
+skinparam ArrowHeadColor none
+#Green :PanelPrincipal; 
+split
+#Gray :Tienda;
+split again
+#Gray :Cartas;
+split again       
+#Gray :Batalla;
+:Jugar;
+note right
+  Aqui entra en el modo juego 
+  ====
+  salir de la partida o continuar  
+end note
+if (continuar) then(si)
+    #Green: PanelPrincipal;
+    detach
+else (no)
+    end 
+endif
+
+split again    
+#Gray :Social;
+split again
+#Gray :Eventos;
+end split
+@enduml
+
+
+@startuml name2
+skinparam conditionStyle inside
+start
+repeat
+  :act1;
+  :act2;
+repeatwhile (<b>end)
+:act3;
+@enduml
