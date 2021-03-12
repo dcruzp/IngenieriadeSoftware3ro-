@@ -67,8 +67,7 @@ Este lenguaje ayuda a la comprensión del proceso del programa, debido que al mo
 
 ### UML con Diagrama de Actividades 
 
-Para comenzar el juego lo primero que debemos hacer es descagarnos la aplicacion y una vez descargada, comenzar su instalación 
-
+Para comenzar el juego lo primero que debemos hacer es descagarnos la aplicación y una vez descargada, comenzar su instalación.
 Luego al entrar a la interfaz de la aplicación por primera vez, nos aparece una pantalla donde nos dice si queremos jugar el tutorial del juego.  
 
 ![Diagrama 1](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-0.png)
@@ -84,7 +83,7 @@ Luego de entrar en el modo de juego tenemos un menú con varios paneles para int
 
 ![Diagrama 2](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-1.png)
 
-El apartado de la Tienda, Una vez dentro de este apartado tienes la opcion de regrasar a la pantalla principal de la aplicación
+El apartado de la Tienda, Una vez dentro de este apartado tienes la opción de regrasar a la pantalla principal de la aplicación
 
 ![Diagrama 3](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-2.png)
 
@@ -92,11 +91,11 @@ El apartado de Administración de las cartas del usuario, Puedes regresar a la p
 
 ![Diagrama 4](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-3.png)
 
-En esta sección puedes entrar a las redes sociales donde tiene las principales paginas la aplicación. Una vez ahí existe la opcion de regresar a la aplicación 
+En esta sección puedes entrar a las redes sociales donde tiene las principales páginas la aplicación. Una vez ahí existe la opción de regresar a la aplicación
 
 ![Diagrama 5](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-4.png)
 
-Aqui puedes ver los distintos eventos que tiene el juego ,desde aquí también puedes regresar a la aplicación 
+Aquí puedes ver los distintos eventos que tiene el juego ,desde aquí también puedes regresar a la aplicación 
 
 ![Diagrama 5](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-5.png)
 
@@ -114,7 +113,7 @@ Aqui puedes ver los distintos eventos que tiene el juego ,desde aquí también p
 3. **Batallas**: Modo donde el usuario decidirá que modo de batalla desea. 
 4. **Chat**: En esta sección el usuario puede mantener conversaciones con otros jugadores. Existen también chats grupales donde solo pueden estar los miembros de un clan. 
 5. **Cofres**: Estos cuatro espacios es donde se almacenan los cofres obtenidos por el usuario y también se muestra el tiempo que demoran en abrirse
-6. Nivel del usuario en el juego, y la barra es la evolución del jugador para poder pasar de nivel.  
+6. **Nivel del usuario en el juego**, y la barra es la evolución del jugador para poder pasar de nivel.  
 7. **Perfil del jugador** 
 
 #### 3 Sección del perfil del Jugador.
@@ -122,14 +121,14 @@ Aqui puedes ver los distintos eventos que tiene el juego ,desde aquí también p
 2. Clan al cual pertenece el usuario. 
 3. Mazo bélico del jugador: cartas seleccionadas para la próxima batalla . 
 
-#### 4 Seccion de cartas: 
+#### 4 Sección de cartas: 
 1. Aquí es donde el jugador puede selecionar las cartas que conformaran su maso bélico 
 2. En el apartado de colección se muestran las cartas encontradas por el usuario , además de que aquí es donde este podrá subirles el nivel a las cartas. 
 
 
 ![Diapositiva 2](../StoryBoard/storyboard2.jpg)
 
-#### 5- Seccion de la Tienda:
+#### 5- Sección de la Tienda:
 
 En esta sección el usuario puede adquirir artículos dependiendo del dinero que este tenga en el juego. Todos los artículos tendrían la cantidad de dinero que el usuario debe pagar para adquirilos. También
 puede adquirir mas dinero (en el juego) pagando con dinero almacenado en una cuenta bancaria.
@@ -139,5 +138,5 @@ puede adquirir mas dinero (en el juego) pagando con dinero almacenado en una cue
 2. Representan las tres torres que defiende el usuario y las tres del enemigo. 
 3. Tiempo en el cuál termina la batalla, cuando esta termine el jugador que más daño tenga pierde la batalla. Existe también la posibilidad de que un jugador le quite toda la vida al otro antes del tiempo en cuestión, si esto sucede el jugador que tenga vida automaticamente gana la batalla.  
 
-#### 7- Seccion del chat
-En esta sección el usuario podrá intercambiar mensajes de texto con otros jugadores que sean amigos de él. También existe en chat grupal con todos los miembros del clan el cual pertenece el jugador. 
+#### 7- Sección del chat
+En esta sección el usuario podrá intercambiar mensajes de texto con otros jugadores que sean amigos de él. También existe en chat grupal con todos los miembros del clan al cual pertenece el jugador. 
