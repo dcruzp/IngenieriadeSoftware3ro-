@@ -43,14 +43,3 @@ split again
 detach 
 end split
 @enduml
-
-
-@startuml name2
-skinparam conditionStyle inside
-start
-repeat
-  :act1;
-  :act2;
-repeatwhile (<b>end)
-:act3;
-@enduml
