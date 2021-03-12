@@ -26,7 +26,7 @@ Después de que la Rational Software Corporation contratara a James Rumbaugh
 de General Electric, en 1994, la compañía se convirtiría en la fuente de los 
 dos esquemas de modelado orientado a objetos más populares de la época.
 
-Poco después se les uniría Ivar Jacobson, el creador del método de ingeniería 
+Poco después se les uniría Ivar Jacobson, el creador del método de ingeniería
 de software orientado a objetos. Jacobson se uniría a Rational, en 1995, 
 después de que su compañía Objectory AB fuera comprada por Rational.
 
@@ -84,23 +84,60 @@ Luego de entrar en el modo de juego tenemos un menú con varios paneles para int
 
 ![Diagrama 2](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-1.png)
 
-
-El apartado de tienda
-
+El apartado de la Tienda, Una vez dentro de este apartado tienes la opcion de regrasar a la pantalla principal de la aplicación
 
 ![Diagrama 3](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-2.png)
 
+El apartado de Administración de las cartas del usuario, Puedes regresar a la pantalla principal de la aplicación. 
 
-El apartado de Administracion de las cartas del usuario 
+![Diagrama 4](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-3.png)
 
-![Diagrama 4](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-2.png)
+En esta sección puedes entrar a las redes sociales donde tiene las principales paginas la aplicación. Una vez ahí existe la opcion de regresar a la aplicación 
 
-Los demás Apartados de la intercción en al pantalla principal siguen el mismo patrón del apartado de la tienda. 
+![Diagrama 5](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-4.png)
+
+Aqui puedes ver los distintos eventos que tiene el juego ,desde aquí también puedes regresar a la aplicación 
+
+![Diagrama 5](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-5.png)
 
 ## StoryBoard
 
  
 ![Diapositiva 1](../StoryBoard/storyboard1.jpg)
 
+#### 1-Pantalla inicial de un smartphone con IOs o android que contiene la app Clash Royale 
+
+#### 2- Pantalla de la pagina principal inicial de Clash Royale
+##### Barra de Opciones: 
+1. **Tienda** : Boton que habrira la opcion "Tienda" donde apareceran todas las operaciones qu eel usuario puede adquirir, cofres, cartas, dinero, etc ...
+2. **Cartas**: Seccion donde se almacenaran todas las cartas que posea el usuario (en tiempo real) y este podra dicidir cual de estas puede subirle el nivel (mientras este permitido) o seleccioner para su proxima batalla.
+3. **Batallas**: Modo donde el usuario decidira que modo de batalla desea. 
+4. **Chat**: En esta seccion el usuario puede mantener conversaciones con otros jugadores. Existen tambien chats grupales donde solo pueden estar los miembros de un clan. 
+5. **Cofres**: Estos cuatro espacios es donde se almacenan los cofres obtenidos por el usuario y tambien se muestra el tiempo que demoran en abrirse
+6. Nivel del usuario en el juego, y la barra es la evolucion del jugador para poder pasar de nivel.  
+7. **Perfil del jugador** 
+
+#### 3 Seccion del perfil del Jugador.
+1. Cantidad de trofeos almacenados por el usuario , ademas de otras estadisticas.
+2. Clan al cual pertenece el usuario. 
+3. Mazo belico del jugador: cartas seleccionadas para la proxima batalla . 
+
+#### 4 Seccion de cartas: 
+1. Aqui es donde el jugador puede selecionar las cartas que conformaran su maso belico 
+2. En el apartado de coleccion se muestran las cartas encontradas por el usuario , ademas de que aqui es donde este podra subirles el nivel a las cartas. 
+
 
 ![Diapositiva 2](../StoryBoard/storyboard2.jpg)
+
+#### 5- Seccion de la Tienda:
+
+En esta seccion el usuario puede adquirir articulos dependiendo del dinero que este tenga en el juego. Todos los articulos tendrian la cantidad de dinero que el usuario debe pagar para adquirilos. Tambien
+puede adquirir mas dinero (en el juego) pagando con dinero almacenado en una cuenta bancaria.
+
+#### 6- Modo Batalla 
+1. En esta barra estaran las cuatro cartas que el usuario puede invocar al campo de batalla, tambien en la parte inferior se muestra una barra que representa la vida que el jugador posee. El cuadro en cuestion representa la proxima carta del mazo belico que el usuario puede seleccionar, luego que se desocupe un lugar de las cuatro cartas principales. 
+2. Representan las tres torres que defiende el usuario y las tres del enemigo. 
+3. Tiempo en el cual termina la batalla, cuando esta termine el jugador que mas dano tenga pierde la batalla. Existe tambien la posibilidad de que un jugador le quite toda la vida al otro antes del tiempo en cuestion, si esto sucede el jugador que tenga vida automaticamente gana la batalla.  
+
+#### 7- Seccion del chat
+En esta seccion el usuario podra intercambiar mensajes de texto con otros jugadores que sean amigos de el. Tambien existe en chat grupal con todos los miembros del clan el cual pertenece el jugador. 

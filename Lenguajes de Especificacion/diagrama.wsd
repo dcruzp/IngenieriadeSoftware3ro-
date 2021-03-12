@@ -1,4 +1,4 @@
-@startuml name
+@startuml diagrama0
 start
 :Instalar el Juego;
 if (Jugar el Tutorial) then
@@ -8,7 +8,7 @@ endif
 
 @enduml
 
-@startuml name1
+@startuml diagrama1
 skinparam ArrowHeadColor none
 #Green :PanelPrincipal; 
 note right
@@ -44,7 +44,7 @@ detach
 end split
 @enduml
 
-@startuml
+@startuml diagrama2
 #Green :PanelPrincipal;
 #Gray :Tienda;
 if (entrar en la tienda) then (si)
@@ -55,13 +55,34 @@ endif
 #Green :PanelPrincipal;  
 @enduml
 
-@startuml
+@startuml diagrama3
 #Green :PanelPrincipal;
 #Gray :Cartas;
 if (Adquirir/Administrar cartas) then (si)
     #Blue :Admiinsitrador de Cartas ;
 else (no)
     
+endif 
+#Green :PanelPrincipal;  
+@enduml
+
+
+@startuml diagrama4
+#Green :PanelPrincipal;
+#Gray :Social;
+if (Entrar a sección de Redes) then (si)
+    #Blue :Redes;
+else (no)
+endif 
+#Green :PanelPrincipal;  
+@enduml
+
+@startuml diagrama5
+#Green :PanelPrincipal;
+#Gray :Eventos;
+if (Entrar a sección de los eventos) then (si)
+    #Blue :Eventos;
+else (no)
 endif 
 #Green :PanelPrincipal;  
 @enduml
