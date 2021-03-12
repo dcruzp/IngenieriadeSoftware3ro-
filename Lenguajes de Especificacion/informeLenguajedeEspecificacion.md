@@ -122,7 +122,7 @@ Aquí puedes ver los distintos eventos que tiene el juego ,desde aquí también 
 3. Mazo bélico del jugador: cartas seleccionadas para la próxima batalla . 
 
 #### 4 Sección de cartas: 
-1. Aquí es donde el jugador puede selecionar las cartas que conformaran su maso bélico 
+1. Aquí es donde el jugador puede selecionar las cartas que conformaran su mazo bélico 
 2. En el apartado de colección se muestran las cartas encontradas por el usuario , además de que aquí es donde este podrá subirles el nivel a las cartas. 
 
 
