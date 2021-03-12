@@ -109,35 +109,35 @@ Aqui puedes ver los distintos eventos que tiene el juego ,desde aquí también p
 
 #### 2- Pantalla de la pagina principal inicial de Clash Royale
 ##### Barra de Opciones: 
-1. **Tienda** : Boton que habrira la opcion "Tienda" donde apareceran todas las operaciones qu eel usuario puede adquirir, cofres, cartas, dinero, etc ...
-2. **Cartas**: Seccion donde se almacenaran todas las cartas que posea el usuario (en tiempo real) y este podra dicidir cual de estas puede subirle el nivel (mientras este permitido) o seleccioner para su proxima batalla.
-3. **Batallas**: Modo donde el usuario decidira que modo de batalla desea. 
-4. **Chat**: En esta seccion el usuario puede mantener conversaciones con otros jugadores. Existen tambien chats grupales donde solo pueden estar los miembros de un clan. 
-5. **Cofres**: Estos cuatro espacios es donde se almacenan los cofres obtenidos por el usuario y tambien se muestra el tiempo que demoran en abrirse
-6. Nivel del usuario en el juego, y la barra es la evolucion del jugador para poder pasar de nivel.  
+1. **Tienda** : Botón que habrirá la opción "Tienda" donde aparecerán todas las operaciones que el usuario puede adquirir, cofres, cartas, dinero, etc ...
+2. **Cartas**: Sección donde se almacenarán todas las cartas que posea el usuario (en tiempo real) y este podrá dicidir cuál de estas puede subirle el nivel (mientras este permitido) o seleccionar para su próxima batalla.
+3. **Batallas**: Modo donde el usuario decidirá que modo de batalla desea. 
+4. **Chat**: En esta sección el usuario puede mantener conversaciones con otros jugadores. Existen también chats grupales donde solo pueden estar los miembros de un clan. 
+5. **Cofres**: Estos cuatro espacios es donde se almacenan los cofres obtenidos por el usuario y también se muestra el tiempo que demoran en abrirse
+6. Nivel del usuario en el juego, y la barra es la evolución del jugador para poder pasar de nivel.  
 7. **Perfil del jugador** 
 
-#### 3 Seccion del perfil del Jugador.
-1. Cantidad de trofeos almacenados por el usuario , ademas de otras estadisticas.
+#### 3 Sección del perfil del Jugador.
+1. Cantidad de trofeos almacenados por el usuario , además de otras estadisticas.
 2. Clan al cual pertenece el usuario. 
-3. Mazo belico del jugador: cartas seleccionadas para la proxima batalla . 
+3. Mazo bélico del jugador: cartas seleccionadas para la próxima batalla . 
 
 #### 4 Seccion de cartas: 
-1. Aqui es donde el jugador puede selecionar las cartas que conformaran su maso belico 
-2. En el apartado de coleccion se muestran las cartas encontradas por el usuario , ademas de que aqui es donde este podra subirles el nivel a las cartas. 
+1. Aquí es donde el jugador puede selecionar las cartas que conformaran su maso bélico 
+2. En el apartado de colección se muestran las cartas encontradas por el usuario , además de que aquí es donde este podrá subirles el nivel a las cartas. 
 
 
 ![Diapositiva 2](../StoryBoard/storyboard2.jpg)
 
 #### 5- Seccion de la Tienda:
 
-En esta seccion el usuario puede adquirir articulos dependiendo del dinero que este tenga en el juego. Todos los articulos tendrian la cantidad de dinero que el usuario debe pagar para adquirilos. Tambien
+En esta sección el usuario puede adquirir artículos dependiendo del dinero que este tenga en el juego. Todos los artículos tendrían la cantidad de dinero que el usuario debe pagar para adquirilos. También
 puede adquirir mas dinero (en el juego) pagando con dinero almacenado en una cuenta bancaria.
 
 #### 6- Modo Batalla 
-1. En esta barra estaran las cuatro cartas que el usuario puede invocar al campo de batalla, tambien en la parte inferior se muestra una barra que representa la vida que el jugador posee. El cuadro en cuestion representa la proxima carta del mazo belico que el usuario puede seleccionar, luego que se desocupe un lugar de las cuatro cartas principales. 
+1. En esta barra estarán las cuatro cartas que el usuario puede invocar al campo de batalla, también en la parte inferior se muestra una barra que representa la vida que el jugador posee. El cuadro en cuestión representa la próxima carta del mazo bélico que el usuario puede seleccionar, luego que se desocupe un lugar de las cuatro cartas principales. 
 2. Representan las tres torres que defiende el usuario y las tres del enemigo. 
-3. Tiempo en el cual termina la batalla, cuando esta termine el jugador que mas dano tenga pierde la batalla. Existe tambien la posibilidad de que un jugador le quite toda la vida al otro antes del tiempo en cuestion, si esto sucede el jugador que tenga vida automaticamente gana la batalla.  
+3. Tiempo en el cuál termina la batalla, cuando esta termine el jugador que más daño tenga pierde la batalla. Existe también la posibilidad de que un jugador le quite toda la vida al otro antes del tiempo en cuestión, si esto sucede el jugador que tenga vida automaticamente gana la batalla.  
 
 #### 7- Seccion del chat
-En esta seccion el usuario podra intercambiar mensajes de texto con otros jugadores que sean amigos de el. Tambien existe en chat grupal con todos los miembros del clan el cual pertenece el jugador. 
+En esta sección el usuario podrá intercambiar mensajes de texto con otros jugadores que sean amigos de él. También existe en chat grupal con todos los miembros del clan el cual pertenece el jugador. 
