@@ -130,8 +130,8 @@ En la sección de Eventos puedes ver los distintos eventos que tiene el juego, d
 
 #### 5- Sección de la Tienda:
 
-En esta sección el usuario puede adquirir artículos dependiendo del dinero que este tenga en el juego. Todos los artículos tendrían la cantidad de dinero que el usuario debe pagar para adquirilos. También
-puede adquirir mas dinero (en el juego) pagando con dinero almacenado en una cuenta bancaria.
+En esta sección el usuario puede adquirir artículos dependiendo del dinero que este tenga en el juego. Todos los artículos tendrían la cantidad de dinero que el usuario debe pagar para adquirirlos. También
+puede adquirir más dinero (en el juego) pagando con dinero almacenado en una cuenta bancaria.
 
 #### 6- Modo Batalla 
 1. En esta barra estarán las cuatro cartas que el usuario puede invocar al campo de batalla, también en la parte inferior se muestra una barra que representa la vida que el jugador posee. El cuadro en cuestión representa la próxima carta del mazo bélico que el usuario puede seleccionar, luego que se desocupe un lugar de las cuatro cartas principales. 
