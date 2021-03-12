@@ -83,19 +83,19 @@ Luego de entrar en el modo de juego tenemos un menú con varios paneles para int
 
 ![Diagrama 2](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-1.png)
 
-El apartado de la Tienda, Una vez dentro de este apartado tienes la opción de regrasar a la pantalla principal de la aplicación
+El apartado de la Tienda, Una vez dentro de este apartado tienes la opción de regresar a la pantalla principal de la aplicación
 
 ![Diagrama 3](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-2.png)
 
-El apartado de Administración de las cartas del usuario, Puedes regresar a la pantalla principal de la aplicación. 
+El apartado de Administración de las cartas del usuario. Puedes regresar a la pantalla principal de la aplicación. 
 
 ![Diagrama 4](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-3.png)
 
-En esta sección puedes entrar a las redes sociales donde tiene las principales páginas la aplicación. Una vez ahí existe la opción de regresar a la aplicación
+En la sección de Redes puedes entrar a las redes sociales donde tiene las principales páginas la aplicación. Una vez ahí existe la opción de regresar a la aplicación.
 
 ![Diagrama 5](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-4.png)
 
-Aquí puedes ver los distintos eventos que tiene el juego ,desde aquí también puedes regresar a la aplicación 
+En la sección de Eventos puedes ver los distintos eventos que tiene el juego, desde aquí también puedes regresar a la aplicación.
 
 ![Diagrama 5](../out/Lenguajes%20de%20Especificacion/diagrama/diagrama-5.png)
 
@@ -106,9 +106,9 @@ Aquí puedes ver los distintos eventos que tiene el juego ,desde aquí también 
 
 #### 1-Pantalla inicial de un smartphone con IOs o android que contiene la app Clash Royale 
 
-#### 2- Pantalla de la pagina principal inicial de Clash Royale
+#### 2- Pantalla de la página principal inicial de Clash Royale
 ##### Barra de Opciones: 
-1. **Tienda** : Botón que habrirá la opción "Tienda" donde aparecerán todas las operaciones que el usuario puede adquirir, cofres, cartas, dinero, etc ...
+1. **Tienda** : Botón que abrirá la opción "Tienda" donde aparecerán todas las operaciones que el usuario puede adquirir, cofres, cartas, dinero, etc ...
 2. **Cartas**: Sección donde se almacenarán todas las cartas que posea el usuario (en tiempo real) y este podrá dicidir cuál de estas puede subirle el nivel (mientras este permitido) o seleccionar para su próxima batalla.
 3. **Batallas**: Modo donde el usuario decidirá que modo de batalla desea. 
 4. **Chat**: En esta sección el usuario puede mantener conversaciones con otros jugadores. Existen también chats grupales donde solo pueden estar los miembros de un clan. 
@@ -117,8 +117,8 @@ Aquí puedes ver los distintos eventos que tiene el juego ,desde aquí también 
 7. **Perfil del jugador** 
 
 #### 3 Sección del perfil del Jugador.
-1. Cantidad de trofeos almacenados por el usuario , además de otras estadisticas.
-2. Clan al cual pertenece el usuario. 
+1. Cantidad de trofeos almacenados por el usuario , además de otras estadísticas.
+2. Clan al cuál pertenece el usuario. 
 3. Mazo bélico del jugador: cartas seleccionadas para la próxima batalla . 
 
 #### 4 Sección de cartas: 
