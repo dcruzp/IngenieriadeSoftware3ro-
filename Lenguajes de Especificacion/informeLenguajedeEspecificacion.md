@@ -1,20 +1,20 @@
-## Lenguajes de Especificaci�n
 
+## Lenguajes de Especificación
 - ***Storyboard** tipo 2* 
 - ***UML** con diagrama de actividades* 
 
 ### Historia y algunos aspectos b�sicos de Storyboard 
 
-El storyboard es una colecci�n de ilustraciones secuenciales que se utilizan como
-una gu�a para entender una historia, dar publicidad a un prducto, previsualizar
-una animaci�n o seguir la estructura de una pel�cula antes de realizarla o firmarla.
+una guía para entender una historia, dar publicidad a un prducto, previsualizar
+El storyboard es una colección de ilustraciones secuenciales que se utilizan como
 
-La creaci�n de  storyboard se atribuye a Georges M�li�s (ilusionista y cineasta 
-franc�s). El proceso del 
+una animación o seguir la estructura de una película antes de realizarla o firmarla.
+francés). El proceso del 
+La creación de  storyboard se atribuye a Georges M�li�s (ilusionista y cineasta 
 storyboarding, en la forma que se como hoy fue desarrollado por Webb Smith 
 en el estudio de Walt Disney durante principios de los a�os 1930,
-El storyboarding se hizo popular en la producci�n de pel�culas de acci�n 
-viva durante principios de los a�os 1940. 
+El storyboarding se hizo popular en la producci�n de pel�culas de acción 
+viva durante principios de los aos 1940. 
 
 La elaboraci�n de un storyboard est� en funci�n de su uso: en publicidad 
 o videos comerciales o institucionales es mucho m�s t�cnico y elaborado 
@@ -23,18 +23,18 @@ para que sirva de gu�a a cada miembro del equipo de trabajo.
 ### Historia y algunos aspectos b�sicos de UML
 
 Despu�s de que la Rational Software Corporation contratara a James Rumbaugh 
-de General Electric, en 1994, la compa��a se convirti� en la fuente de los 
 dos esquemas de modelado orientado a objetos m�s populares de la �poca.
+de General Electric, en 1994, la compa�a se convirti� en la fuente de los 
 
 Poco despu�s se les uni� Ivar Jacobson, el creador del m�todo de ingenier�a 
 de software orientado a objetos. Jacobson se uni� a Rational, en 1995, 
-despu�s de que su compa��a Objectory AB fuera comprada por Rational.
 
-En 1996 Rational concluy� que la abundancia de lenguajes de modelado estaba 
-alentando la adopci�n de la tecnolog�a de objetos, y para orientarse hacia un
+despu�s de que su compa�a Objectory AB fuera comprada por Rational.
 m�todo unificado, encargaron a los Tres Amigos que desarrollaran un 
-"lenguaje unificado de modelado" abierto. Se consult� con representantes de 
-compa��as competidoras en el �rea de la tecnolog�a de objetos durante la 
+En 1996 Rational concluyó que la abundancia de lenguajes de modelado estaba 
+alentando la adopción de la tecnolog�a de objetos, y para orientarse hacia un
+compa��as competidoras en el área de la tecnología de objetos durante la 
+"lenguaje unificado de modelado" abierto. Se consultó con representantes de 
 OOPSLA '96; eligieron "cajas" para representar clases en lugar de la notaci�n
 de Booch que utilizaba s�mbolos de "nubes". 
 
@@ -73,28 +73,28 @@ Este tipo de Storyboard ayuda a los desarrolladores a identificar los
 problemas visuales que puede tener el software y es muy importante a la hora 
 de poder crear un manual para el usuario. 
 
-Una de las desventajas que tiene es que como es una �maqueta visual� los 
-desarrolladores no podr�n identificar problemas m�s detallados como las 
+Una de las desventajas que tiene es que como es una maqueta visual los 
+desarrolladores no podrín identificar problemas más detallados como las 
 acciones que el usuario puede realizar o no al estar en contacto con el 
-producto, o problemas a nivel de implementaci�n del software. Además, que 
-como queremos ense�arle al cliente todas las etapas de la aplicaci�n 
+producto, o problemas a nivel de implementación del software. Además, que 
+como queremos enseñarle al cliente todas las etapas de la aplicación 
 tuvimos que crear las maquetas de cada una de estas, y como este software 
-en particular tiene varios requerimientos fueron muchas maquetas, adem�s, 
-de la explicaci�n de cada uno de los elementos que contiene la interfaz. 
+en particular tiene varios requerimientos fueron muchas maquetas, además, 
+de la explicación de cada uno de los elementos que contiene la interfaz. 
 El lenguaje UML con Diagrama de Actividades es una alternativa del lenguaje 
-natural para la descripci�n de escenarios, en �l se representa los flujos de 
+natural para la descripción de escenarios, en él se representa los flujos de 
 los casos usos paso a paso. Estos se utilizan para representar el 
-comportamiento din�mico de un sistema, principalmente en la secuencia de 
+comportamiento dinámico de un sistema, principalmente en la secuencia de 
 actividades que se llevan a cabo y las condiciones que guardan o ejecutan 
 esas actividades. 
 
-Este lenguaje ayuda a la comprensi�n del proceso del programa, debido que al 
-mostrarlo con un dibujo es f�cil de entender, tambi�n gracias a la simplicidad 
-de la visualizaci�n nos ayuda a identificar los problemas y los puntos en los 
+Este lenguaje ayuda a la comprensión del proceso del programa, debido que al 
+mostrarlo con un dibujo es fácil de entender, también gracias a la simplicidad 
+de la visualización nos ayuda a identificar los problemas y los puntos en los 
 cuales se puede mejorar el proceso. En un plano profesional este tipo de 
-lenguaje ayuda en la capacitaci�n de los nuevos desarrolladores que se unan 
-al equipo de creaci�n del programa. La desventaja fundamental de este lenguaje 
-es en la creaci�n del diagrama, la cual se puede complejizar si el programa 
+lenguaje ayuda en la capacitación de los nuevos desarrolladores que se unan 
+al equipo de creación del programa. La desventaja fundamental de este lenguaje 
+es en la creación del diagrama, la cual se puede complejizar si el programa 
 es demasiado extenso, es decir contiene varios requerimientos.
 
 
@@ -104,9 +104,8 @@ Para comenzar el juego lo primero que debes hacer es desargaros la aplicacion y 
 
 Luego al entrar a la interfaz de la aplicacion por primera vez, nos aparece una pantalla donde nos dice si queremos jugar el tutorial del juego  
 
+![](../out/Lenguajes%20de%20Especificacion/diagrama/name.png)
 
-
-<center><img src="../out/Lenguajes%20de%20Especificacion/diagrama/name.png"></center>
 
 <!-- ```plantuml 
 @startuml name

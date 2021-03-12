@@ -11,10 +11,15 @@ endif
 @startuml name1
 skinparam ArrowHeadColor none
 #Green :PanelPrincipal; 
+note right
+    Este es el entorno principal del juego
+end note 
 split
 #Gray :Tienda;
+detach
 split again
 #Gray :Cartas;
+detach 
 split again       
 #Gray :Batalla;
 :Jugar;
@@ -32,8 +37,10 @@ endif
 
 split again    
 #Gray :Social;
+detach 
 split again
 #Gray :Eventos;
+detach 
 end split
 @enduml
 
