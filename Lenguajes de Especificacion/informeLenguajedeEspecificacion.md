@@ -98,6 +98,21 @@ es en la creaci�n del diagrama, la cual se puede complejizar si el programa
 es demasiado extenso, es decir contiene varios requerimientos.
 
 
+![texto](../out/Lenguajes%20de%20Especificacion/diagrama/name.png)
+
+<!-- ```plantuml 
+@startuml name
+start
+:Instalar el Juego;
+if (Jugar el Tutorial) then
+    :Tutorial;
+endif
+#Green: PanelPrincipal; 
+@enduml
+``` -->
+
+
+
 ```plantuml 
 @startuml name1
 skinparam ArrowHeadColor none
@@ -131,16 +146,4 @@ split again
 detach 
 end split
 @enduml
-```
-
-@import 'out\name.png'
-
-```mermaid
-stateDiagram
-    [*] --> First
-    state First {
-        [*] --> second
-        second --> [*]
-    }
-    [*] --> Daniel
 ```
