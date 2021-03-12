@@ -5,48 +5,48 @@
 
 ### Historia y algunos aspectos básicos de Storyboard 
 
-una guía para entender una historia, dar publicidad a un prducto, previsualizar
 El storyboard es una colección de ilustraciones secuenciales que se utilizan como
-
+una guía para entender una historia, dar publicidad a un prducto, previsualizar
 una animación o seguir la estructura de una película antes de realizarla o firmarla.
+
+La creación de  storyboard se atribuye a Georges Méliés (ilusionista y cineasta 
 francés). El proceso del 
-La creación de  storyboard se atribuye a Georges M�li�s (ilusionista y cineasta 
 storyboarding, en la forma que se como hoy fue desarrollado por Webb Smith 
 en el estudio de Walt Disney durante principios de los años 1930,
 El storyboarding se hizo popular en la producción de películas de acción 
-viva durante principios de los aos 1940. 
+viva durante principios de los años 1940. 
 
 La elaboración de un storyboard está en función de su uso: en publicidad 
 o videos comerciales o institucionales es mucho más técnico y elaborado 
 para que sirva de guía a cada miembro del equipo de trabajo.
 
-### Historia y algunos aspectos b�sicos de UML
+### Historia y algunos aspectos básicos de UML
 
 Después de que la Rational Software Corporation contratara a James Rumbaugh 
-dos esquemas de modelado orientado a objetos más populares de la �poca.
-de General Electric, en 1994, la compa�a se convirtir en la fuente de los 
+de General Electric, en 1994, la compañía se convirtiría en la fuente de los 
+dos esquemas de modelado orientado a objetos más populares de la poca.
 
-Poco despus se les uni� Ivar Jacobson, el creador del m�todo de ingenier�a 
-de software orientado a objetos. Jacobson se uni� a Rational, en 1995, 
+Poco después se les uniría Ivar Jacobson, el creador del método de ingeniería 
+de software orientado a objetos. Jacobson se uniría a Rational, en 1995, 
+después de que su compañ►ía Objectory AB fuera comprada por Rational.
 
-despu�s de que su compa�a Objectory AB fuera comprada por Rational.
-m�todo unificado, encargaron a los Tres Amigos que desarrollaran un 
 En 1996 Rational concluyó que la abundancia de lenguajes de modelado estaba 
-alentando la adopción de la tecnolog�a de objetos, y para orientarse hacia un
-compa��as competidoras en el área de la tecnología de objetos durante la 
+alentando la adopción de la tecnología de objetos, y para orientarse hacia un
+método unificado, encargaron a los Tres Amigos que desarrollaran un 
 "lenguaje unificado de modelado" abierto. Se consultó con representantes de 
-OOPSLA '96; eligieron "cajas" para representar clases en lugar de la notaci�n
-de Booch que utilizaba s�mbolos de "nubes". 
+compañías competidoras en el área de la tecnología de objetos durante la 
+OOPSLA '96; eligieron "cajas" para representar clases en lugar de la notación
+de Booch que utilizaba símbolos de "nubes". 
 
-Bajo la direcci�n t�cnica de los Tres Amigos (Rumbaugh, Jacobson y Booch) fue 
+Bajo la dirección técnica de los Tres Amigos (Rumbaugh, Jacobson y Booch) fue 
 organizado un consorcio internacional llamado UML Partners en 1996 para 
 completar las especificaciones del UML.
 
-El borrador de la especificaci�n UML 1.0 de UML Partners fue propuesto a la 
-OMG en enero de 1997. Durante el mismo mes, la UML Partners form� una Fuerza 
-de Tarea Sem�ntica, encabezada por Cris Kobryn y administrada por Ed Eykholt, 
-para finalizar las sem�nticas de la especificaci�n y para integrarla con otros 
-esfuerzos de estandarizaci�n. El resultado de este trabajo, el UML 1.1, fue 
+El borrador de la especificación UML 1.0 de UML Partners fue propuesto a la 
+OMG en enero de 1997. Durante el mismo mes, la UML Partners formó una Fuerza 
+de Tarea Semántica, encabezada por Cris Kobryn y administrada por Ed Eykholt, 
+para finalizar las semánticas de la especificación y para integrarla con otros 
+esfuerzos de estandarización. El resultado de este trabajo, el UML 1.1, fue 
 presentado ante la OMG en agosto de 1997 y adoptado por la OMG en 
 noviembre de 1997. 
 
@@ -67,13 +67,13 @@ Este lenguaje ayuda a la comprensión del proceso del programa, debido que al mo
 
 #### UML con Diagrama de Actividades 
 
-Para comenzar el juego lo primero que debes hacer es desargaros la aplicacion y una vez descargada , comenzar su instalacion 
+Para comenzar el juego lo primero que debemos hacer es desarganos la aplicacion y una vez descargada, comenzar su instalación 
 
-Luego al entrar a la interfaz de la aplicacion por primera vez, nos aparece una pantalla donde nos dice si queremos jugar el tutorial del juego  
+Luego al entrar a la interfaz de la aplicación por primera vez, nos aparece una pantalla donde nos dice si queremos jugar el tutorial del juego.  
 
 ![Diagrama 1](../out/Lenguajes%20de%20Especificacion/diagrama/name.png)
 
-Luego de entrar en el modo de juego tenemos un meno con varios paneles para interactuar en el juego.
+Luego de entrar en el modo de juego tenemos un menú con varios paneles para interactuar.
 
 - Tienda
 - Cartas
