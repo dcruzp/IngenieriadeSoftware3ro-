@@ -104,7 +104,7 @@ En la sección de Eventos puedes ver los distintos eventos que tiene el juego, d
  
 ![Diapositiva 1](../StoryBoard/storyboard1.jpg)
 
-#### 1-Pantalla inicial de un smartphone con IOs o android que contiene la app Clash Royale 
+#### 1-Pantalla inicial de un smart-phone con IOs o android que contiene la app Clash Royale 
 
 #### 2- Pantalla de la página principal inicial de Clash Royale
 ##### Barra de Opciones: 
@@ -122,7 +122,7 @@ En la sección de Eventos puedes ver los distintos eventos que tiene el juego, d
 3. Mazo bélico del jugador: cartas seleccionadas para la próxima batalla . 
 
 #### 4 Sección de cartas: 
-1. Aquí es donde el jugador puede selecionar las cartas que conformaran su mazo bélico 
+1. Aquí es donde el jugador puede seleccionar las cartas que conformaran su mazo bélico 
 2. En el apartado de colección se muestran las cartas encontradas por el usuario , además de que aquí es donde este podrá subirles el nivel a las cartas. 
 
 
