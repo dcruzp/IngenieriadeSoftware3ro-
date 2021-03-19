@@ -48,7 +48,7 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
      Debido a las características del problema y a su alta predictibilidad, 
     este debe tener una frecuencia de entrega al cliente de una vez al mes. 
     Una frecuencia menor implicaría una pérdida de tiempo ya que no es probable 
-    que la cantidad de cambios a realizar muchos. La primera entrega se 
+    que la cantidad de cambios a realizar sean muchos. La primera entrega se 
     realizará al cabo de dos meses de iniciado el proyecto debido al tiempo 
     inicial de diseño de la aplicación.
 
@@ -57,7 +57,7 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
     En las mismas reuniones de mejoras reflexivas, debido a que somos pocos 
     integrantes en el proyecto, se hará la comunicación osmótica, donde el 
     líder y algunos integrantes que están familiarizados con el tema del 
-    proyecto, debatirán sobre aspectos y responderán preguntas. sobre el 
+    proyecto, debatirán sobre aspectos y responderán preguntas sobre el 
     software para suplir deficiencias sobre el tema de algunos integrantes, 
     logrando así una buena comunicación y entendimiento entre los miembros del equipo.  
 
@@ -66,7 +66,7 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
 
     En el primer mes del desarrollo de nuestro software nos reuniremos al menos 3 
     horas a la semana, para establecer bien las metas a cumplir para la primera 
-    entrega. Luego de esta primera entrega, la frecuencia de nuestros encuentros 
+    entrega. Luego de esta, la frecuencia de nuestros encuentros 
     reflexivos disminuirá, debido a la complejidad no tan alta de nuestro software y 
     a que centraremos el esfuerzo en arreglar cualquier error encontrado por el 
     usuario o los desarrolladores, así como incluir sus sugerencias y continuar 
