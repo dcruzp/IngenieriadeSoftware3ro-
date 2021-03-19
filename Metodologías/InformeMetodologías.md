@@ -25,7 +25,7 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
  acerca del software y cualquiera de sus compañeros puede, o bien sumarse a la 
  conversación contribuyendo a la misma o bien continuar con su trabajo. La 
  información acerca del software fluye entre los integrantes. En este tipo de 
- comunicación cumple un papel importante el diseñador líder el cual debe de ser 
+ comunicación cumple un papel importante el diseñador líder el cual debe ser 
  el miembro más experimentado del equipo.
  
  - **Seguridad Personal:** Cada miembro del equipo tiene permitido hablar cuando 
@@ -52,7 +52,7 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
     realizará al cabo de dos meses de iniciado el proyecto debido al tiempo 
     inicial de diseño de la aplicación.
 
-2. ##### Comunicación osmótica
+2. ##### Comunicación osmótica:
 
     En las mismas reuniones de mejoras reflexivas, debido a que somos pocos 
     integrantes en el proyecto, se hará la comunicación osmótica, donde el 
@@ -62,9 +62,9 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
     logrando así una buena comunicación y entendimiento entre los miembros del equipo.  
 
 
-3. ##### Mejoras Reflexivas
+3. ##### Mejoras Reflexivas:
 
-    En el primer mes del desarrollo de nuestro software nos reuniremos al menos 3 
+    En el primer mes de desarrollo de nuestro software nos reuniremos al menos 3 
     horas a la semana, para establecer bien las metas a cumplir para la primera 
     entrega. Luego de esta, la frecuencia de nuestros encuentros 
     reflexivos disminuirá, debido a la complejidad no tan alta de nuestro software y 
@@ -72,34 +72,34 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
     usuario o los desarrolladores, así como incluir sus sugerencias y continuar 
     con el desarrollo del software.
 
-4. ##### Seguridad Personal 
+4. ##### Seguridad Personal: 
 
-    Debido a nuestra baja experiencia en este tipo de trabajo, y nuestra formación 
-    juntos, todos los integrantes del equipo estamos en total confianza y 
+    Debido a nuestra poca experiencia en este tipo de trabajo, y que todos 
+    los integrantes del equipo tenemos el mismo nivel de formación, estamos en total confianza y 
     dispuestos a debatir y aprender durante todo el proceso de desarrollo del software.
 
 5. ##### Foco (o Enfoque)
    
-    El equipo organizó los diferentes requerimientos funcionales de tal manera que ningún integrante esté sobrecargado de trabajos:
+    El equipo organizó los diferentes requerimientos funcionales de tal manera que ningún integrante esté sobrecargado de trabajo:
     
     - **Daniel (Designer Leader):** Debido a que es el integrante con mayor 
       experiencia se encargará del diseño de la aplicación y la dinámica del juego, 
       en específico del modo de batalla y el balance de las cartas en esta.
 
-    - **Frank:** El integrante se encargará de toda la parte visual del software, 
-    esta parte abarca todos los temas es uno de los miembros que más ocupado estará.
+    - **Frank:** Se encargará de toda la parte visual del software, 
+    esta parte abarca todos los temas, es uno de los miembros que más ocupado estará.
 
     - **Camilo:**  Este miembro se encargará del apartado de redes y seguridad, lo 
     relacionado con el chat del usuario, también la opción de decidir que artículo 
     puede comprar en las tiendas con dinero real, etc.
 
-    - **Julio:** El integrante se encargará de todo lo relacionado con la base de 
+    - **Julio:** Estará encargado de todo lo relacionado con la base de 
     datos del software, donde se almacenarán los usuarios que se creen un perfil, 
     las cartas que existen en el juego, y los cofres obtenidos en la batalla, cada 
     uno de estos aspectos con sus respectivas características.
 
 
-6. ##### Fácil acceso a los usuarios expertos 
+6. ##### Fácil acceso a los usuarios expertos: 
    
     El equipo tiene varios usuarios expertos como Jotaro Kujo y Dio Brando los 
     cuales son altos consumidores de videojuegos, estos usuarios se reúnen 
@@ -107,14 +107,14 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
     tanto al desarrollo visual del programa como a las funcionalidades que este 
     tiene. Además, que reciben las entregas frecuentemente.
    
-7. ##### Adaptar el proceso cíclico a varios procesos 
+7. ##### Adaptar el proceso cíclico a varios procesos:
 
     El equipo de desarrollo va a tener una sesión semanal para debatir los avances que el 
     equipo haya tenido durante el transcurso de esta, así como posibles problemas que se presenten 
     en el desarrollo del software durante la semana. Este 
-    encuentro sera el viernes por la tarde o el Lunes por la mañana.
+    encuentro será el viernes por la tarde o el lunes por la mañana.
 
-    Ademas los últimos viernes de cada mes el equipo tendrá una reunion para valorar el 
+    Además los últimos viernes de cada mes el equipo tendrá una reunión para valorar el 
     progreso y la productividad durante el período de un mes. Donde cada 
     integrante del equipo traerá una propuesta para presentar, sobre como podría 
     mejorar el equipo en cuanto a productividad y eficiencia.
@@ -130,14 +130,14 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
         Algunas actividades que tiene que desarrollar el analista es: reuniones con clientes
         y determinación de especificaciones funcionales. 
 
-        Este rol lo desempeña Julio Jose Horta Vazquez
+        Este rol lo desempeña Julio Jose Horta Vazquez.
    
-        Es importante el trabajo de estos , ya que el éxito del proyecto depende  
-        de la comprensión de las necesidades del cliente  para que satisfaga las expectativas del mismo 
+        Es importante el trabajo de este, ya que el éxito del proyecto depende de la 
+        comprensión de las necesidades del cliente  para que satisfaga las expectativas del mismo. 
         
     - **EL Gerente del Proyecto** 
     
-        EL gerente del proyecto tiene multiple responsabilidades, como son la 
+        EL gerente del proyecto tiene multiples responsabilidades, como son la 
         planificación del proyecto , mantener el proyecto dentro del presupuesto 
         establecido y la solución de problemas. 
 
@@ -153,7 +153,7 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
         en una solución técnica. Puede crear un diseño técnico o bocetos simples de como el 
         sistema va a estar estructurado.   
 
-        Este rol lo desempeña Camilo Rodriguez Velázquez actualmente 
+        Este rol lo desempeña Camilo Rodriguez Velázquez. 
 
         Es responsabilidad del arquitecto de pensar el sistema antes de que se desarrolle. 
 
@@ -166,7 +166,7 @@ equipos pequeños. Se basa en ciertas propiedades las cuales son:
 
         Es de suma importancia este desempeño , pues no importa lo buena que sea 
         la aplicación si la interfaz es inconsistente, pues la percepción de los usuarios 
-        depende mucho de la mirada y la sensación que le produce una aplicación o sito Web 
+        depende mucho de la mirada y la sensación que le produce una aplicación o sito Web. 
     
         Este rol lo desempeña Frank Adrian Perez Morales.
 
@@ -195,23 +195,22 @@ usuarios, o simplemente muy pocas entregas, lo cual puede desencadenar que al us
 no le guste el producto o que este, no les aporte a los desarrolladores la 
 retroalimentación que ellos necesitan para crear un programa de calidad. También si 
 el equipo es inexperto en la creación de programas de un tipo determinado o no existe 
-una buena comunicación entre los integrantes el proceso se dificultará. Tampoco 
+una buena comunicación entre los integrantes, el proceso se dificultará. Tampoco 
 funciona para equipos de muchos integrantes, debido a que dificulta la comunicación 
 osmótica y el flujo de información entre estos. 
 
 Esta metodología es del agrado de los integrantes de nuestro equipo, debido a que nos 
-proporciona una mejor comunicación y organización en nuestro trabajo. Además de que 
-gracias a las entregas frecuentes tanto los usuarios y los desarrolladores pueden 
+proporciona una mejor comunicación y organización en nuestro trabajo. Además debido  a las entregas frecuentes tanto los usuarios como los desarrolladores pueden 
 percibir una evolución en las fases del programa. Existen también dificultades en 
-este tipo de metodología, por ejemplo, el equipo se nota afectado,  dada la situación 
-epidemiológica actual, para  reunirnos frecuentemente y hacer las mejoras reflexivas.
+este tipo de metodología, por ejemplo, actualmente dada la situación 
+epidemiológica, el equipo tiene dificultades para reunirse frecuentemente y hacer las mejoras reflexivas.
 
 
 
 ### Rol del Jefe de Equipo 
 
 Según la experiencia de nuestro equipo, un jefe es necesario ya que debe 
-existir alguien que tome decisiones a generales y que haga un plan de trabajo a 
+existir alguien que tome decisiones generales y que haga un plan de trabajo a 
 seguir. El autocontrol no es tan efectivo ya que si hay dos soluciones posibles 
 a un problema y ambas igual de eficientes pueden surgir complicaciones a la 
 hora de seleccionar una, como también puede dificultarse el diseño general de 
