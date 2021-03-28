@@ -53,6 +53,45 @@ El diagrama describe la planificación para la ejecución del proyecto mediante un
 El diagrama esta hecho en Project Pro . En la carpeta *DiagramadeGantt* hay un fichero con nombre *DiagramadeGant.mpp* , en este fichero esta el source  del Diagrama hecho en  Project Pro 
 
 
+Descripcion y asignacion de las actividades 
+
+![imagen_5](img/TareaseHitos.png)
+
+
+![imagen_1](img/1.png)
+
+![imagen_2](img/2.png)
+
+![imagen_3](img/3.png)
+
+![imagen_4](img/4.png)
+
+![imagen_5](img/5.png)
+
+![imagen_6](img/6.png)
+
+![imagen_6](img/6.png)
+
+![imagen_7](img/7.png)
+
+![imagen_8](img/8.png)
+
+![imagen_9](img/9.png)
+
+![imagen_10](img/10.png)
+
+![imagen_11](img/11.png)
+
+![imagen_12](img/12.png)
+
+![imagen_12](img/12.png)
+
+![imagen_13](img/13.png)
+
+![imagen_14](img/14.png)
+
+
+
 ## 3 Riesgos que están asociados 
 
 ##### 1- Suplantación de identidad por parte de un tercero que empiece a realizar pedidos falsos.
