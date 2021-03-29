@@ -53,41 +53,50 @@ El diagrama describe la planificación para la ejecución del proyecto mediante un
 El diagrama esta hecho en Project Pro . En la carpeta *DiagramadeGantt* hay un fichero con nombre *DiagramadeGant.mpp* , en este fichero esta el source  del Diagrama hecho en  Project Pro 
 
 
-Descripcion y asignacion de las actividades 
+Descripción y asignación de las actividades 
 
 ![imagen_5](img/TareaseHitos.png)
 
-
+Mejoras reflexivas 
 ![imagen_1](img/1.png)
 
+Gestión de las ofertas de pizzeria (Base de Datos)
 ![imagen_2](img/2.png)
 
+Actualizar ofertas diarias
 ![imagen_3](img/3.png)
 
+Actualizar cantidad y producto 
 ![imagen_4](img/4.png)
 
+Gestión de usuarios del sistema
 ![imagen_5](img/5.png)
 
+Actualizar los usuarios del sistema 
 ![imagen_6](img/6.png)
 
-![imagen_6](img/6.png)
-
+Parte Visual (Parcial del software) 
 ![imagen_7](img/7.png)
 
+Entrega al usuario 
 ![imagen_8](img/8.png)
 
+Gestión de Pedidos 
 ![imagen_9](img/9.png)
 
+Creación de Pedidos 
 ![imagen_10](img/10.png)
 
+Parte Visual (Parcial del software) II 
 ![imagen_11](img/11.png)
 
+Entrega al Usuario II 
 ![imagen_12](img/12.png)
 
-![imagen_12](img/12.png)
-
+Funcionamiento de los Mensajeros 
 ![imagen_13](img/13.png)
 
+Entrega Final al usuario
 ![imagen_14](img/14.png)
 
 
@@ -104,3 +113,26 @@ Esto se clasifica como una amenaza ya que un usuario troll puede afectar las gan
 Esto provocaría que la el sitio se volviera extremadamente lento o incluso temporalmente inaccesible al estar recibiendo pedidos los cuales tienen solo el objetivo de ocupar la capacidad total de procesamiento de nuestros servidores e imposibilitar el acceso a este por parte de otros usuarios. La opción que tomaría nuestro equipo seria transferir la solución del problema a un tercero que este especializado en seguridad.
 
 1. Este realizara un Sistema de reconocimiento de mensajes de usuarios reales ignorando a los lanzados por maquinas en forma de spam, con algún método de Snapchat o algo similar 
+
+##### 3- Problemas con los pedidos (que no se correspondan los que hay en la base de datos y los que realmente hay en oferta  .
+
+Esto pudiera suceder por mala gestión de los usuarios a la hora de interactuar con la plataforma. por desconocimiento 
+del funcionamiento de la aplicación. Los programadores quedan ajeno a eso , pues sucede que ellos solo se encargan de que la plataforma funcione. Los 
+administradores serian los responsables del buen manejo y aplicación de esta
+
+ 1 . Esto podría ser resuelto asignando a un encargado y responsable de la administración de la aplicación como administrador. 
+
+##### 4- Problemas a la hora de el pago de los cliente 
+
+Pudiera suceder que los clientes tuvieran algún contratiempo a la hora del pago de las entregas que se le hacen , esto haría que si un usuario no hace el pago en el plazo establecido o por los medios que 
+se estableció ocurran algunos desajusten en el correcto funcionamiento de la plataforma en general. 
+
+1. Esto pudiera solucionarse obligando a los usuarios a hacer los pagos de la forma establecida (usando solo tarjetas) y no de otra forma. 
+2. Pero esto podría suponer que no se llegue a la mayor cantidad de usuarios posibles (que es lo que se quiere). 
+
+##### 5- Problemas con los suministradores de las materias primas 
+
+Esto sucedería si un suministrador no cumpliera con su entrega a  tiempo o no pudiera suministrara toda la materia prima que tendría que entregar en una fecha determinada. Esto podría traer consigo que los pedidos programados no se entregaran a tiempo, pues si los administradores de la aplicación no actualizan constantemente la base de datos 
+podrían surgir este tipo de imprevistos. 
+
+1. Esto se solucionaría poniendo un responsable como administrador de los recursos y su actualización en la base de datos. 
