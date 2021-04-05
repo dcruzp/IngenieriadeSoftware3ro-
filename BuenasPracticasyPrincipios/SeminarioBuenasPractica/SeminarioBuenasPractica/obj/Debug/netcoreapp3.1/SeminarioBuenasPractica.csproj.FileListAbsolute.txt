@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\bin\Debug\netcoreapp3.1\SeminarioBuenasPractica.exe
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\bin\Debug\netcoreapp3.1\SeminarioBuenasPractica.deps.json
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\bin\Debug\netcoreapp3.1\SeminarioBuenasPractica.runtimeconfig.json
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\bin\Debug\netcoreapp3.1\SeminarioBuenasPractica.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\bin\Debug\netcoreapp3.1\SeminarioBuenasPractica.dll
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\bin\Debug\netcoreapp3.1\SeminarioBuenasPractica.pdb
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\obj\Debug\netcoreapp3.1\SeminarioBuenasPractica.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\obj\Debug\netcoreapp3.1\SeminarioBuenasPractica.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\obj\Debug\netcoreapp3.1\SeminarioBuenasPractica.AssemblyInfo.cs
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\obj\Debug\netcoreapp3.1\SeminarioBuenasPractica.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\obj\Debug\netcoreapp3.1\SeminarioBuenasPractica.dll
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\obj\Debug\netcoreapp3.1\SeminarioBuenasPractica.pdb
+C:\Users\Daniel\Documents\University\Ingenieria de Software\GitHub\BuenasPracticasyPrincipios\SeminarioBuenasPractica\SeminarioBuenasPractica\obj\Debug\netcoreapp3.1\SeminarioBuenasPractica.genruntimeconfig.cache
