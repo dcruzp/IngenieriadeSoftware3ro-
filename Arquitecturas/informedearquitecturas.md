@@ -2,7 +2,7 @@
 
 ### Integrantes: 
  - Daniel de la Cruz Prieto
- - Camilo Rodriguez Velazquez
+ - Camilo Rodriguez Velázquez
  - Julio Jose Horta Vazquez
  - Frank Adrian Perez Morales
 
@@ -78,3 +78,96 @@ Por lo general hay una interface o clase abstracta llamada Plugin la cual
 servirá como punto de entrada para el sistema Core, y le dará toda la 
 información del Plugin al sistema Core.
 
+
+### Ventajas y Desventajas 
+
+La arquitectura Microkernel (plug-in) nos aporta ciertas ventajas para implementar 
+nuestros proyectos como: este tipo de arquitectura reacciona a los cambios 
+realizados en los módulos de plug-in mientras minimiza los cambios en el sistema 
+principal, por lo tanto requiere pocos cambios en el tiempo, lo cual nos aporta 
+una estabilidad a largo plazo. A diferencia de las arquitecturas en capas, tener 
+módulos de plug-in significa que es más fácil de implementar, minimizando así el 
+tiempo de inactividad durante la implementación.
+
+Las pruebas en este tipo de arquitectura son muy fáciles de realizar debido a que 
+los módulos de plug-in se pueden probar de manera aislada, lo que implica muy 
+pocos o casi ningún cambio en el sistema central. Aunque generalmente no es la 
+arquitectura ideal para usarse en aplicaciones de alto rendimiento, puede 
+funcionar bien debido a la personalización de la aplicación para incluir solo 
+las características que se necesitan.
+
+Sin embargo, en las implementaciones con la arquitectura de microkernel las 
+aplicaciones tienden a ser de un tamaño pequeño, por lo tanto, no son altamente 
+escalables, esta característica depende de como se implementan los módulos de 
+plug-in en ciertos niveles. Además, requiere un análisis exhaustivo del diseño 
+antes de la implementación: los elementos a analizar incluyen el control de 
+versiones de contratos, los registros internos de los plug-in y las amplias 
+opciones disponibles para la conectividad plug-in.
+
+### Implementación 
+
+El producto que utilizaremos para nuestra implementación es el presentado en el 
+seminario de especificación de requerimientos: “Clash Royale”.
+
+Utilizaremos varios tipos de arquitectura para este programa una de estas es la 
+arquitectura Cliente-Servidor N-Capas (tres capas) donde existen tres tipos de 
+capas: 
+
+Capa de Presentación: Esta capa está destinada al usuario, por lo cual también se 
+le denomina "Capa de Usuario". En esta, el usuario intercambiará con una interfaz 
+gráfica, donde se le presentará el sistema de una manera fácil y entendible de 
+usar. Es donde el usuario podrá analizar que acciones quiere realizar en nuestra 
+aplicación, como la creación y edición de un perfil, selección del modo de 
+batalla, etc... 
+
+Capa de Negocio: En esta se reciben las peticiones del usuario, a través de la 
+comunicación con la Capa de Usuario, se evalúa esta información y se procesa 
+para solicitar al gestor de base de datos lo que se necesita. Luego se comunica 
+nuevamente con la Capa de Presentación para presentar los resultados adquiridos. 
+En esta capa se consideran los programas de la aplicación. 
+
+Capa de datos: Es la capa encargada del almacenamiento de los datos y también del 
+acceso a los mismos. En esta se almacenan, recuperan o se reciben a través de la 
+Capa de Negocio los datos utilizados. Esta capa es de vital importancia en nuestro 
+proyecto debido a la gran cantidad de información que se desea de recopilar en 
+nuestra aplicación como: información de las cartas, usuarios, cofres, batallas, 
+entre otras más. 
+
+En la Capa de Negocio utilizaremos la arquitectura de Microkernel (plug-in) en 
+donde implementaremos cada una de las funcionalidades que puede tener nuestro 
+programa como: creación y edición del perfil, almacenamiento de cofres, chat del 
+programa, obtención de artículos, etc… cada una de estas serán implementadas por 
+separado siendo los plug-in todos los métodos que cada una de estas pueden 
+realizar. Por ejemplo en el requisito de Perfil del jugador cada uno de los 
+plug-in serán la información que se desea saber del jugador en cuestión: como su 
+apodo, nivel , cantidad de victorias , etc.(todas estas informaciones van a estar 
+almacenadas en la base de datos (Capa de datos)) y el sistema principal se 
+encargará de funcionalidades principales como la actualización en la base de 
+datos de todas estas informaciones. 
+
+Este tipo de arquitectura nos permite a la hora de crear cada uno de los 
+plug-in una fácil implementación e incluso cuando se les realicen pruebas a 
+estos poder modificarlos sin afectar el sistema principal. Además, se toma en 
+cuenta este tipo de arquitectura debido a que si se le desea añadir alguna otra 
+funcionalidad más simplemente se le puede añadir otro plug-in a la funcionalidad 
+que se quiera actualizar. 
+
+
+### Conclusiones 
+
+Como se ha podido analizar el estilo arquitectónico de Microkernel permite 
+extender la funcionalidad de sistema mediante la adición de Plugins, 
+dichos plugins pueden ser desarrollados por terceros, lo que amplía las 
+posibilidades de la aplicación Core si necesidad de costear los desarrollos, 
+al mismo tiempo que permites que puedan personalizar al máximo el sistema.
+
+Por otra parte, podemos observar que un sistema basado en Microkernel permite 
+tener múltiples equipos de desarrollo que construyen los módulos en paralelo 
+sin interferir unos con otros, al mismo tiempo que permite que estos componentes 
+sean probados de forma independientes, por lo que podemos decir que este estilo 
+es fácil de probar.
+
+Sin embargo, hemos visto que uno de las principales problemáticas de este estilo 
+arquitectónico es su alta complejidad de desarrollar y su escalabilidad, lo cual 
+puede ser una limitante para sistemas que deben ser diseñados para un alto 
+escalamiento.
