@@ -251,18 +251,18 @@ elemento este notificará a todas sus dependientes de este cambio, además de que
 nos permite recibir las instrucciones de forma encapsulada y parametrizada a 
 través de Command lo que nos ayuda a entender y trabajar cada orden dígase de 
 ataque, uso de cartas, de una forma bien consensada. 
-
-2. Para los menus, submenús y pantallas de carga utilizaremos el patrón Forms 
-and Controls ya que solo bastaría blindear unas pocas instrucciones a un evento 
-para ser trabajadas sin mucho cambio a futuro. 
+ 
 
 #### Patrones de acceso a datos.
 
 Utilizaremos el patrón Unit of Work ya que tendremos muchos objetos en 
 concurrencia trabajando y este patrón nos brinda un buen control sobre todo en 
 la parte del combate donde habrá diferentes instancias de una clase en el tablero.
-
-
+Vamos a usar como ORM Entity Framework para el trabajo con las base de dato y las 
+operaciones de Update , Delete, Insert y Create , que es un framework bastante 
+completo para el trabajo con las base de datos. Ademas que el trabajo con este 
+ORM es bastante moldeable para nuestro objetivo de hacer las aplicación portable y
+con un nivel de abstracción considerable para futuras mejoras de la aplicación 
 
 ### Conclusiones 
 
