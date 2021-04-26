@@ -93,16 +93,39 @@ el usuario común  y que con algún plugin podría estar disponible para este tipo
 de usuario. Existen cantidad de funcionalidades que pudieran ser extendidas 
 mediante plugins, pero como es necesario para este tipo de arquitectura tendría que 
 haber un enfoque destinado a este objetivo desde que se empiece a desarrollar la 
-aplicación. Mas abajo se explica desde que capa de desarrollo se puede manejar algunos 
-principios que tiene esta arquitectura. aplicar esta filosofía de poder añadir funcionalidades 
-a la aplicación es posible como ya se dijo si se crea bien desde el inicio las bases en 
-el Core System para que mas adelante terceros o los propios desarrolladores del la aplicación 
-puedan trabajar en plugins que aumente la funcionalidad de la aplicación 
+aplicación. 
 
-Si aplicamos esta arquitectura en la Capa correspondiente para añadir mas funcionalidades
-al juego, podríamos representarlo de la siguiente manera: 
+Nuestra idea es usar la arquitectura de microkernel en el Proyecto de Clash Royale 
+de la siguiente manera: para cada una de las funcionalidades mencionadas arribas 
+desarrollarlas desde un principio con este tipo de arquitectura. 
 
+Por ejemplo para la funcionalidad del Chat podemos crear desde un principio una 
+infraestructura siguiendo los principios de la arquitectura de microkernel, 
+por ejemplo pudiéramos definir el System Core como un chat básico de envió y recibo 
+de mensajes instantáneos, con funcionalidades básicas de un chat . Entonces 
+mediante plugins podríamos añadirle por ejemplo poder ver los usuarios que están 
+actualmente activos, poder ver cuando un usuario recibió un mensaje que le fue 
+enviado por otro desde la interfaz gráfica del chat .También podríamos añadirle la 
+funcionalidad mediante un plugin que un usuario reciba notificaciones de la 
+aplicación en general mediante el chat. 
+
+Con este mismo principio podríamos definir una funcionalidad General de la aplicación 
+como es Gestionar artículos disponibles en la tienda de la aplicación. Entonces 
+la interfaz seria la de una tienda básica con los productos(es decir cartas , cofres , etc) que
+están a la venta. Entonces nuestros plugins serian por ejemplo, poner notificaciones 
+en el Chat o en el Panel de notificaciones de la aplicación, poder hacer búsquedas puntuales 
+de algunos artículos , poder programar compras automáticas , etc 
+
+Por ejemplo para la funcionalidad del Chat con todos los plugins que vimos anteriormente
+la integración con la funcionalidad en general podríamos verlo con el siguiente diagrama: 
+ 
 ![](img/ArquitecturaMicrokernelAplicadoAlClashRoyale.png)
+
+Cada una de estas funcionalidades que tiene la aplicación requieren de un diseño especifico 
+de cada apartado (chats, tienda, etc) para que sea posible añadirle los plugins al sistema 
+de cada apartado. Esto es muy ventajoso porque permite el desarrollo sostenido de la 
+aplicación sin comprometer el funcionamiento y sostenibilidad de la plataforma.
+
 
 ### Ventajas y desventajas de la arquitectura Microkernel
 
@@ -197,6 +220,26 @@ estos poder modificarlos sin afectar el sistema principal. Además, se toma en
 cuenta este tipo de arquitectura debido a que si se le desea añadir alguna otra 
 funcionalidad más simplemente se le puede añadir otro plug-in a la funcionalidad 
 que se quiera actualizar. 
+
+
+El problema en general no es práctico desarrollarlo usando la arquitectura 
+MicroKernel (plug-ins) debido a que es un proyecto bastante trabajoso 
+(otro sinónimo para esto) y se requiere un gran análisis del diseño del software 
+antes de su implementación, lo cual aumentaría el tiempo de entrega del proyecto. 
+Por eso utilizaremos una arquitectura escalable como la Cliente-Servidor de N Capas 
+(tres capas), así permitiremos la distribución del trabajo por niveles, donde cada 
+grupo de trabajo estará abstraído del resto de estos, además también implica que 
+podemos administrar a cada uno de los desarrolladores de nuestro equipo con una 
+misión simple, lo que permite que puedan ampliarse con mayor facilidad en caso de 
+que aumenten las necesidades del proyecto.
+
+Como el Clash Royal tiene varias funcionalidades a implementar, utilizaremos 
+otro tipo de arquitectura que nos ayudará a poder separar cada una de estas y 
+poder implementarlas, modificarlas y actualizarlas con una mayor facilidad y 
+además que cada desarrollador pueda trabajar en ellas aisladamente, sin necesidad 
+de depender de otros para poder implementarlas. Con la ayuda de los plug-ins 
+cada uno de estos métodos serán fáciles de implementar lo cual minimiza el 
+tiempo de inactividad de implementación.
 
 
 #### Patrones de presentación.
