@@ -85,51 +85,48 @@ problemas que pueda ir apareciendo en  el desarrollo del software.
    - Frank Adrian Perez Morales (Disenador Grafico)
 
 
-   Los roles principales que tienen los miembros del equipo son: 
+Los roles principales que tienen los miembros del equipo son: 
     
-   - **El Analista** (Este rol esta asignado al desarrollador Julio Jose Horta Vazquez.)
+- **El Analista** (Este rol esta asignado al desarrollador Julio Jose Horta Vazquez.)
        
-        Es el responsable de entender las necesidades del cliente y asegurarse que las 
-        solución que esta desarrollándose se corresponda a las necesidades del cliente. 
+    Es el responsable de entender las necesidades del cliente y asegurarse que las 
+    solución que esta desarrollándose se corresponda a las necesidades del cliente. 
         
-        EL analista va a llevar a cabo: reuniones con clientes (estas reuniones seran via internet , usando 
-        algun media de comunicacion , WhatsApp , Telegram , Google Meet etc) con el objetivo de 
-        atender que necesidades pueda presentar el cliente. Y que espararia para la proxima entrega
+    EL analista va a llevar a cabo: reuniones con clientes (estas reuniones seran via internet , usando 
+    algun media de comunicacion , WhatsApp , Telegram , Google Meet etc) con el objetivo de 
+    atender que necesidades pueda presentar el cliente. Y que espararia para la proxima entrega
          
-
+    Es importante el trabajo de este, ya que el éxito del proyecto depende de la 
+    comprensión de las necesidades del cliente  para que satisfaga las expectativas del mismo. 
         
-   
-        Es importante el trabajo de este, ya que el éxito del proyecto depende de la 
-        comprensión de las necesidades del cliente  para que satisfaga las expectativas del mismo. 
-        
-    - **EL Gerente del Proyecto** (Este rol lo tiene el jefe del equipo: Daniel de la Cruz Prieto. )
+- **EL Gerente del Proyecto** (Este rol lo tiene el jefe del equipo: Daniel de la Cruz Prieto. )
     
-        EL gerente del proyecto va a estar acargo de todo el proceso de 
-        desarrollor, y va a estar el tanto de posibles problemas  
-        que puedan tener solucion a tiempo. Ademas de tener una
-        comunicación periodica con  cliente sobre el progreso del 
-        proyecto y la interacción con los demás miembros del equipo.
-        Con el fin de atender problemas en especifico de cada desarrollador 
-        ya sea vinculado con el desarrollo del software o problemas 
-        externos que influyan en el desarrollo de la aplicacion       
+    EL gerente del proyecto va a estar acargo de todo el proceso de 
+    desarrollor, y va a estar el tanto de posibles problemas  
+    que puedan tener solucion a tiempo. Ademas de tener una 
+    comunicación periodica con  cliente sobre el progreso del 
+    proyecto y la interacción con los demás miembros del equipo.
+    Con el fin de atender problemas en especifico de cada desarrollador 
+    ya sea vinculado con el desarrollo del software o problemas 
+    externos que influyan en el desarrollo de la aplicacion       
 
-    - **El Arquitecto de Software** (Este rol lo desempeña Camilo Rodriguez Velázquez. )
+- **El Arquitecto de Software** (Este rol lo desempeña Camilo Rodriguez Velázquez. )
     
-        En esta primera etapa Camilo estuvo al tanto de todos los requisistos 
-        del diseno, tuvo un papel importante en algunas aspectos del diseno de la base de 
-        datos . De aqui la importancia del arquitecto, pues es su funcion, pensar 
-        el sistema antes de que se desarrolle. 
+    En esta primera etapa Camilo estuvo al tanto de todos los requisistos 
+    del diseno, tuvo un papel importante en algunas aspectos del diseno de la base de 
+    datos . De aqui la importancia del arquitecto, pues es su funcion, pensar 
+    el sistema antes de que se desarrolle. 
 
-    - **El diseñador Gráfico** (Este rol lo desempeña Frank Adrian Perez Morales)
+- **El diseñador Gráfico** (Este rol lo desempeña Frank Adrian Perez Morales)
         
-        Es el encargado de la disposición general de una aplicación que puede ir 
-        desde el diseño completo de la interfaz de usuario hasta el definir solo 
-        algunas directrices de interfaz de usuario que los desarrolladores deban 
-        cumplir.
+    Es el encargado de la disposición general de una aplicación que puede ir 
+    desde el diseño completo de la interfaz de usuario hasta el definir solo 
+    algunas directrices de interfaz de usuario que los desarrolladores deban 
+    cumplir.
 
-        Frank es el encargado del diseno grafico de la aplicacion. Ademas que junto con 
-        Julio que es el Analista tienes la responsabilidad de evaluar la satisfaccion del
-        cliente en cuanto a conformidad estetica de la aplciacion por parte del usuario 
+    Frank es el encargado del diseno grafico de la aplicacion. Ademas que junto con 
+    Julio que es el Analista tienes la responsabilidad de evaluar la satisfaccion del
+    cliente en cuanto a conformidad estetica de la aplciacion por parte del usuario. 
 
 
 ### 
