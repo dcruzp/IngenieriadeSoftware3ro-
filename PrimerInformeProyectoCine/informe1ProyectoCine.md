@@ -136,6 +136,8 @@ tiene asignado su tarea para cada etapa de desarrollo de la aplicación. cada uno
 registrado con los siguientes correos: 
 
 - Daniel de la Cruz Prieto  (danieldelacruzprieto@gmail.com)
-- Camilo Rodriguez Velázquez
-- Julio Jose Horta Vazquez
-- Frank Adrian Perez Morales
+- Camilo Rodriguez Velázquez (camilo.rod4312@gmail.com)
+- Julio Jose Horta Vazquez (namichurri@gmail.com)
+- Frank Adrian Perez Morales (frankadrian98@gmail.com)
+
+El proyecto en Azure se encuentra en la siguiente dirección https://dev.azure.com/danieldelacruzprieto/Cine
