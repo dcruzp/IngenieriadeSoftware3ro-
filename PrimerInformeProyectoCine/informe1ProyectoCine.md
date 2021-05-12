@@ -20,7 +20,7 @@ planificación vertical. Para la planificación  y el control de
 versiones vamos a usar Microsoft Azure DevOps (para el control de 
 versiones vamos a usar principalmente git porque el equipo tiene mas 
 afinidad por git, por ser un control de versiones distribuido y no 
-Team Foundation (TFVC) que es mas centralizado , ademas de tener mas 
+Team Foundation (TFVC) que es mas centralizado , además de tener mas 
 experiencia con git ) 
 
 
@@ -58,7 +58,7 @@ largo del desarrollo de la aplicación .
  - **Mejoras Reflexivas:** El equipo de trabajo se va a hacer llamadas 
  grupales cada 3 días para reflexionar y compartir ideas , tomar notas, reflexionar y 
  discutir cómo las cosas están funcionando (bien o mal) y poder hacer cambios 
- para la próxima reunion. Así el equipo puede solucionar los 
+ para la próxima reunión. Así el equipo puede solucionar los 
 problemas que pueda ir apareciendo en  el desarrollo del software. 
 
  - **Comunicación Osmótica:** Los miembros del equipo pueden hacer videollamadas 
@@ -75,7 +75,7 @@ problemas que pueda ir apareciendo en  el desarrollo del software.
 
 
 
-##### Roles que tendrían los desarrolladores y que haría cada rol  
+### Roles que tendrían los desarrolladores y que haría cada rol  
  
 
    Los miembros del Equipo son : 
@@ -103,7 +103,7 @@ Los roles principales que tienen los miembros del equipo son:
     
     EL gerente del proyecto va a estar a cargo de todo el proceso de 
     desarrollo, y va a estar el tanto de posibles problemas  
-    que puedan tener solución a tiempo. Ademas de tener una 
+    que puedan tener solución a tiempo. Además de tener una 
     comunicación periódica con  cliente sobre el progreso del 
     proyecto y la interacción con los demás miembros del equipo.
     Con el fin de atender problemas en específico de cada desarrollador 
